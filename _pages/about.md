@@ -23,6 +23,8 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 ---
-My Name is Donghyun Lee, and I am a Associate Professor at HUFS in Division of Social Science & AI.
+My name is Donghyun Lee, and I am an Associate Professor in the Division of Social Science & AI at Hankuk University of Foreign Studies (HUFS). My professional website is currently under construction.
 
-Email: donghyun.lee at hufs.ac.kr
+I am actively looking for motivated graduate students. If you are interested in pursuing a Master's or Ph.D., please feel free to contact me via email.
+
+**Email**: donghyun.lee [at] hufs.ac.kr
