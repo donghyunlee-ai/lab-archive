@@ -9,7 +9,7 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: profile.md
-    image_circular: false 
+    image_circular: false
     more_info: |
       <p>Student's Office Number</p>
       <p>John.Doe@hufs.ac.kr</p>
