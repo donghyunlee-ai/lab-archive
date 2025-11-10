@@ -11,5 +11,6 @@ profiles:
     content: members_profile_hsj.md
     image_circular: false
     more_info: |
+      <p>Jeon Hyeongseo</p>
       <p>jin0004@tukorea.ac.kr</p>
 ---
