@@ -2,96 +2,211 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Donghyun Lee, Ph. D.
+    - name: Title
+      value: Associate Professor
+    - name: Institution
+      value: Hankuk University of Foreign Studies
+    - name: Department
+      value: Division of Social Science & AI
+    - name: Email
+      value: donghyun.lee@hufs.ac.kr
+    - name: Office
+      value: +82-2-2173-3054
+    - name: Address
+      value: 107, Imun-ro, Dongdaemun-gu, Seoul, 02450, Republic of Korea
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Trustworthy AI
+    - title: AI in Social Science
+    - title: Technology Management
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST), College of Business, Graduate School of Technology and Innovation Management, Daejeon, Republic of Korea
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 'Dissertation: "Essays on big data analytics in industrial research: Green energy policy and patent litigation."'
+        - Advisor: Prof. Minki Kim
+    - title: Master of Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST), College of Business, Graduate School of Technology and Innovation Management, Daejeon, Republic of Korea
+      year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor: Prof. Jay Ohm
+    - title: Bachelor of Engineering
+      institution: Korea Advanced Institute of Science and Technology (KAIST), Information and Communication Engineering, Daejeon, Republic of Korea
+      year: 2009
+      description:
+        - IT Business minor
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Professor
+      institution: Hankuk University of Foreign Studies, Division of Social Science & AI, Seoul, Republic of Korea
+      year: 2025 - Present
+    - title: Associate/Assistant Professor
+      institution: Tech University of Korea, Department of Business Administration, Siheung-si, Republic of Korea
+      year: 2017 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Director, SW Education Center (Sep. 2022 – July. 2024)
+        - Chief Professor, Venture Entrepreneurship Integration Major (Nov. 2019 - Sep. 2022)
+        - Chief Professor, Smart Factory Integration Major (Sep. 2018 - Aug. 2019)
+    - title: CEO and Founder
+      institution: AI of Korea. Inc., Incheon, Republic of Korea
+      year: 2022 - 2025
+    - title: Editorial Board Members
+      institution: Journal of Innovation & Knowledge, Amsterdam, Netherlands
+      year: 2025 - Present
+    - title: Committee Member
+      institution: Committee from Ministry of Environment, Environmental Economics Division, South Korea
+      year: 2022 - 2024
+    - title: Research Fellow
+      institution: Korea Environmental Institute, Big Data Research Team, Sejong, Republic of Korea
+      year: 2016 - 2017
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Selected Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: 'Reinforced explainable AI for algal bloom forecasting under climate change: A multi-run class activation mapping (CAM) approach'
+      institution: Journal of Cleaner Production, 146805 (SCIE, IF = 10.0 / JCR Top 6.0%)
+      year: 2025
+      description:
+        - D. Lee*, H. Jeon (2025)
+    - title: Building Reliable AI for Quantifying Uncertainty in Particulate Matter Predictions with Deep Learning
+      institution: Journal of Cleaner Production, 143457 (SCIE, IF = 10.0 / JCR Top 6.0%)
+      year: 2024
+      description:
+        - D. Lee*, B. Lee (2024)
+    - title: Integrated explainable deep learning prediction of harmful algal blooms
+      institution: Technological Forecasting and Social Change, 185, 122046 (SSCI, IF = 13.3 / JCR Top 0.9%)
+      year: 2022
+      description:
+        - D. Lee*, M. Kim, B. Lee, S. Chae, S. Kwon, S. Kang (2022)
+    - title: PM10 and PM2.5 real-time prediction models using an interpolated convolutional neural network
+      institution: Scientific Reports, 11(1), 11952 (SCIE, IF = 3.9 / JCR Top 18%)
+      year: 2021
+      description:
+        - S. Chae, J. Shin, S. Kwon, S. Lee, S. Kang, D. Lee*(2021)
+    - title: Complex System Analysis of Korean peninsula earthquake Data
+      institution: Scientific Reports, 10(1), 2686 (SCIE, IF = 3.9 / JCR Top 18%)
+      year: 2020
+      description:
+        - S. Chae, S. Jang, S. Lee, D. Lee*(2020)
+    - title: Analysing the failure factors of eco‐friendly home appliances based on a user‐centered approach
+      institution: Business Strategy and the Environment, 27(8), 1399-1408 (SSCI, IF = 13.3 / JCR Top 1.1%)
+      year: 2018
+      description:
+        - J. Shin, S. Kang, D. Lee*, B. Hong (2018)
+    - title: Adoption of green electricity policies
+      institution: Energy Policy, 90, 187-201 (SSCI, IF = 9.2 / JCR Top 1.5%)
+      year: 2016
+      description:
+        - 'Investigating the role of environmental attitudes via big data-driven search-queries'
+        - D. Lee, M. Kim, J. Lee (2016)
+
+- title: Book Chapters
+  type: time_table
+  contents:
+    - title: '"Use of artificial intelligence for predicting infectious disease." In P. Keikhosrokiani, "Big Data Analytics for Healthcare: Datasets, Techniques, Life Cycles, Management, and Applications"'
+      institution: Elsevier. ISBN: 9780323985161 (SCOPUS)
+      year: 2022
+      description:
+        - S. Kang, D. Lee* (2022)
+
+- title: Selected Projects
+  type: time_table
+  contents:
+    - title: 'Co-Investigator, "Wild Bird Avian Influenza Spread Prediction Research(III)"'
+      institution: National Wildlife Disease Management Institute
+      year: 2025 - 2026
+    - title: 'Principal Investigator, "Wild Bird Avian Influenza Spread Prediction Research(II)"'
+      institution: National Wildlife Disease Management Institute
+      year: 2024 - 2025
+    - title: 'Principal Investigator, "Simulation of Infectious Disease Prediction Using Transfer Learning Deep Learning"'
+      institution: Korea Research Foundation
+      year: 2020 - 2025
+    - title: 'Principal Investigator, "Development of Advanced Algal Bloom Prediction Model Using Explainable AI"'
+      institution: Tech University of Korea
+      year: 2023 - 2024
+      description:
+        - 1st Place in Tech University of Korea Research Competition
+    - title: 'Principal Investigator, "Application of Deep Learning Technology in Environmental and Industrial Research"'
+      institution: Korea Research Foundation
+      year: 2017 - 2020
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Environmental Data Analysis Contest, President’s Award of the Korea Environment Institute
+    - year: 2019
       items:
-        - Max Planck Medal
+        - Outstanding Researcher Award (Excellence in Academic Paper Category) with the President's Commendation at Tech University of Korea
+    - year: 2008
+      items:
+        - Presidential Award for the Korea Young Talent Award (대한민국 인재상 대통령상) by the President of South Korea
 
-- title: Academic Interests
-  type: nested_list
+- title: Certifications
+  type: time_table
   contents:
-    - title: Topic 1.
+    - year:
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - OCJP (Oracle Certified Java Programmer) by Oracle
+        - Survey analyst, Junior (Statistical analysis certification) by South Korea
+        - ADsP (Advanced Data Analytics Semi-Professional) by Korea Data Agency
 
-- title: Other Interests
-  type: list
+- title: Patents
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Method and Device for Modeling Generation for Time Series Prediction
+      institution: Patent Application No. 10-2023-0010001
+      year: Jan. 2023
+    - title: Method and Device for Predicting Algal Bloom Occurrences Using an Artificial Intelligence Model
+      institution: Patent Application No. 10-2022-0172370
+      year: Dec. 2022
+    - title: Method and Device for Predicting Infectious Diseases Using Artificial Intelligence
+      institution: Patent Application No. 10-2022-0132078
+      year: Oct. 2022
+    - title: Improved Device and Method for Predicting Fine Dust Concentration
+      institution: Patent Application No. 10-2022-0082928
+      year: Jul. 2022
+    - title: Method for Predicting Air Quality Using Artificial Intelligence
+      institution: Patent Application No. 10-2022-0015727
+      year: Feb. 2022
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Programming and Data Analysis
+      institution: Tech University of Korea
+      year: 2021-2023
+      description:
+        - Basic programming with Python, covering object-oriented concepts and data preprocessing.
+    - title: Big Data Analysis
+      institution: Tech University of Korea
+      year: 2018-2024
+      description:
+        - R programming and statistics. Covers data concepts, regression, programming, preprocessing, and visualization.
+    - title: Fundamentals of Programming
+      institution: Tech University of Korea
+      year: 2017-2024
+      description:
+        - Basic programming with JAVA, focusing on fundamental programming concepts.
+    - title: Python Programming (KOCW)
+      institution: Official Public Online Course by KOCW, South Korea
+      year: 2020-Present
+      description:
+        - 'Views: 41,000'
+        - 'Link: http://kocw.net/home/cview.do?cid=3aeee0aa8ad8e840'
+    - title: Big Data Analysis (KOCW)
+      institution: Official Public Online Course by KOCW, South Korea
+      year: 2019-Present
+      description:
+        - 'Views: 28,000'
+        - 'Link: http://kocw.net/home/cview.do?cid=4dada115bddd6d76'
