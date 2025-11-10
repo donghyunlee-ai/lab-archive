@@ -9,5 +9,5 @@ children:
     permalink: https://www.birdfluai.com/
   - title: divider
   - title: AI Korea Inc.
-    permalink: htttps://www.aikoreainc.com/
+    permalink: https://www.aikoreainc.com/
 ---
