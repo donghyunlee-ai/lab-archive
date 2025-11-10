@@ -2,15 +2,14 @@
 layout: profiles
 permalink: /members/
 title: Members
-description: members of the Donghyun Lee AI Group
+description: Members of the Donghyun Lee AI Group
 nav: false
 
 profiles:
   - align: right
-    image: prof_pic.jpg
-    content: profile.md
+    image: pic_hsj.jpg
+    content: members_profile_hsj.md
     image_circular: false
     more_info: |
-      <p>Student's Office Number</p>
-      <p>John.Doe@hufs.ac.kr</p>
+      <p>jin0004@tukorea.ac.kr</p>
 ---
