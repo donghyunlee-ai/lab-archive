@@ -11,7 +11,7 @@ nav: false
 - **Minkyu Kim**
 
 - **Sangmok Lee**
-  CJ
+  KRAFTON
 
 - **Yunhwan Kim**
   Toss Payments
