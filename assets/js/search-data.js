@@ -35,7 +35,7 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "htttps://www.aikoreainc.com/";
+                window.location.href = "https://www.aikoreainc.com/";
               },
             },{id: "nav-teaching",
           title: "teaching",
