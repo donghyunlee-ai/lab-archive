@@ -49,14 +49,14 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "https://www.birdfluai.com/";
+                window.location.href = "";
               },
             },{id: "dropdown-ai-korea-inc",
               title: "AI Korea Inc.",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "https://www.aikoreainc.com/";
+                window.location.href = "";
               },
             },{id: "nav-teaching",
           title: "Teaching",
