@@ -6,8 +6,8 @@ nav_order: 5
 dropdown: true
 children:
   - title: BirdFluAI
-    permalink: https://www.birdfluai.com/
+    url: https://www.birdfluai.com/
   - title: divider
   - title: AI Korea Inc.
-    permalink: https://www.aikoreainc.com/
+    url: https://www.aikoreainc.com/
 ---
