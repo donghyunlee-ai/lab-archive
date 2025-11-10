@@ -2,12 +2,12 @@
 layout: page
 title: Servicies
 nav: true
-nav_order: 8
+nav_order: 5
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: BirdFluAI
+    permalink: https://www.birdfluai.com/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: AI Korea Inc.
+    permalink: htttps://www.aikoreainc.com/
 ---
