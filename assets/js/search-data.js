@@ -59,7 +59,7 @@ ninja.data = [{
                 window.location.href = "https://www.aikoreainc.com/";
               },
             },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
