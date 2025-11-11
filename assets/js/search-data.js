@@ -470,8 +470,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-11-14-award-sw-contest/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-patent-patent-registered-air-quality-prediction-method-using-ai",
+          title: '🔒 [Patent] Patent Registered Air Quality Prediction Method Using AI',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-11-patent-air-quality/";
@@ -480,8 +480,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-02-06-talk-kaere/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-lab-news-alumni-visit-sangwon-chae-nonghyup-bank",
+          title: '👏 [Lab News] Alumni Visit Sangwon Chae (Nonghyup Bank)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-02-member-visit/";
@@ -495,7 +495,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-25-paper-jcp-xai/";
-            },},{id: "projects-project-1",
+            },},{id: "news-now-recruiting-undergraduate-and-graduate-students-our-lab-is-actively-recruiting-passionate-students-for-the-following-positions-graduate-students-master-s-amp-amp-ph-d-we-are-looking-for-highly-motivated-candidates-to-join-our-master-s-or-ph-d-programs-undergraduate-researchers-we-welcome-undergraduate-students-3rd-year-or-higher-interested-in-gaining-research-experience-especially-those-considering-the-integrated-bachelor-s-master-s-program-or-master-s-program-research-areas-ai-mlops-data-science-ideal-candidate-smart-social-integrity-required-skills-python-preferred-skills-front-back-end-development-how-to-apply-please-send-your-cv-and-cover-letter-to-donghyun-lee-hufs-ac-kr-please-be-sure-to-include-your-gpa-in-your-application-materials",
+          title: 'Now Recruiting: Undergraduate and Graduate Students Our lab is actively recruiting passionate students...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
