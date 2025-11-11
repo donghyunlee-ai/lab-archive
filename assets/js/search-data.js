@@ -440,10 +440,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presented-at-the-korean-technology-and-management-economics-ktoe-society-summer-conference-automation-of-green-algae-prediction-through-deep-learning-based-mlops-pipeline-an-ai-model-serving-approach-for-policy-utilization-authors-donghyun-lee-sungwon-kang-hyungseo-jeon",
-          title: 'Presented at the Korean Technology and Management Economics (KTOE) Society Summer Conference: “Automation...',
+            },},{id: "news-presentation-kaere-conference-avian-influenza-spatio-temporal-modeling",
+          title: '🎤 [Presentation] KAERE Conference (Avian Influenza Spatio-temporal Modeling)',
           description: "",
-          section: "News",},{id: "news-presentation-kaere-conference-avian-influenza-spatio-temporal-modeling",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-07-06-talk-ktoe/";
+            },},{id: "news-presentation-kaere-conference-avian-influenza-spatio-temporal-modeling",
           title: '🎤 [Presentation] KAERE Conference (Avian Influenza Spatio-temporal Modeling)',
           description: "",
           section: "News",handler: () => {
