@@ -44,7 +44,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "dropdown-birdfluai",
+        },{id: "dropdown-hpai-kr",
+              title: "HPAI.kr",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://hpai.kr/";
+              },
+            },{id: "dropdown-birdfluai",
               title: "BirdFluAI",
               description: "",
               section: "Dropdown",
