@@ -440,8 +440,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-hello-world-hufs-in-social-science-amp-amp-ai",
-          title: 'Hello world! HUFS in Social Science &amp;amp;amp; AI!',
+            },},{id: "news-news-editor-board",
+          title: 'News Editor Board',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-02-news-editor-board/";
+            },},{id: "news-now-recruiting-undergraduate-and-graduate-students-master-s-ph-d-our-lab-is-actively-recruiting-passionate-students-for-the-following-positions-graduate-students-master-s-amp-amp-ph-d-we-are-looking-for-highly-motivated-candidates-to-join-our-master-s-or-ph-d-programs-undergraduate-researchers-we-welcome-undergraduate-students-3rd-year-or-higher-interested-in-gaining-research-experience-especially-those-considering-the-integrated-bachelor-s-master-s-program-or-master-s-program-research-areas-ai-mlops-data-science-ideal-candidate-smart-social-integrity-required-skills-python-preferred-skills-front-back-end-development-how-to-apply-please-send-your-cv-and-cover-letter-to-donghyun-lee-hufs-ac-kr",
+          title: '📢 Now Recruiting: Undergraduate and Graduate Students (Master’s / Ph.D.) Our lab is...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
