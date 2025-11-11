@@ -87,9 +87,7 @@
       "startDate": "",
       "endDate": "2016-08-31",
       "score": "",
-      "courses": [
-        "Dissertation: Essays on big data analytics in industrial research: Green energy policy and patent litigation."
-      ]
+      "courses": ["Dissertation: Essays on big data analytics in industrial research: Green energy policy and patent litigation."]
     },
     {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST), College of Business",
@@ -111,9 +109,7 @@
       "startDate": "",
       "endDate": "2009-08-31",
       "score": "",
-      "courses": [
-        "IT Business minor"
-      ]
+      "courses": ["IT Business minor"]
     }
   ],
   "awards": [
@@ -239,11 +235,7 @@
       "name": "AI Research",
       "level": "Expert",
       "icon": "fa-solid fa-microscope",
-      "keywords": [
-        "Trustworthy AI",
-        "AI in Social Science",
-        "Technology Management"
-      ]
+      "keywords": ["Trustworthy AI", "AI in Social Science", "Technology Management"]
     }
   ],
   "languages": [
