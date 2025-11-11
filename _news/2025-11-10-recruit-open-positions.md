@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📢 [Recruiting] Now Recruiting Undergraduate and Graduate Students
-date: 2025-11-11 09:00:00
+date: 2025-11-10 09:00:00
 inline: true
 ---
 
