@@ -440,6 +440,61 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-presentation-kaere-conference-avian-influenza-spatio-temporal-modeling",
+          title: '🎤 [Presentation] KAERE Conference (Avian Influenza Spatio-temporal Modeling)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-07-06-talk-ktoe/";
+            },},{id: "news-presentation-kaere-conference-avian-influenza-spatio-temporal-modeling",
+          title: '🎤 [Presentation] KAERE Conference (Avian Influenza Spatio-temporal Modeling)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-22-talk-kaere/";
+            },},{id: "news-presentation-koti-summer-conference-labor-market-analysis-with-llm",
+          title: '🎤 [Presentation] KOTI Summer Conference (Labor Market Analysis with LLM)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-30-talk-koti/";
+            },},{id: "news-paper-building-reliable-ai-for-quantifying-uncertainty-jcp-if-9-7-jcr-6-6",
+          title: '📜 [Paper] Building Reliable AI for Quantifying Uncertainty JCP(IF=9.7, JCR 6.6%)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-09-13-paper-jcp/";
+            },},{id: "news-award-kei-president-39-s-award-3rd-place-in-environmental-data-contest",
+          title: '🏆 [Award] KEI President&amp;#39;s Award (3rd Place) in Environmental Data Contest',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-10-21-award-kei-contest/";
+            },},{id: "news-award-encouragement-award-at-tuk-sw-competition-hyungseo-jeon",
+          title: '🏆 [Award] Encouragement Award at TUK SW Competition (Hyungseo Jeon)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-11-14-award-sw-contest/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-12-11-patent-air-quality/";
+            },},{id: "news-presentation-kaere-conference-avian-influenza-prediction",
+          title: '🎤 [Presentation] KAERE Conference (Avian Influenza Prediction)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-02-06-talk-kaere/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-02-member-visit/";
+            },},{id: "news-news-appointed-editorial-board-for-journal-of-innovation-amp-knowledge-jcr-top-0-4",
+          title: '📰 [News] Appointed Editorial Board for Journal of Innovation &amp;amp; Knowledge (JCR Top...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-02-news-editor-board/";
+            },},{id: "news-paper-xai-for-algal-bloom-forecasting-published-in-jcp-if-10-top-6",
+          title: '📜 [Paper] XAI for Algal Bloom Forecasting published in JCP (IF=10, Top 6%)...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-25-paper-jcp-xai/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
