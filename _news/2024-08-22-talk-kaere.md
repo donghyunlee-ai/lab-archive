@@ -1,5 +1,6 @@
 ---
 layout: post
+title: 🎤 [Presentation] KAERE Conference (Avian Influenza Spatio-temporal Modeling)
 date: 2024-08-22 09:00:00
 inline: false
 ---

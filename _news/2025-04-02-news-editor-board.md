@@ -1,10 +1,9 @@
 ---
 layout: post
+title: 📰 [News] Appointed Editorial Board for Journal of Innovation & Knowledge (JCR Top 0.4%)
 date: 2025-04-02 10:00:00
 inline: false
 ---
-
-#### Appointed to Editorial Review Board for _Journal of Innovation & Knowledge_
 
 I am honored to have been selected for the Editorial Review Board of the **Journal of Innovation & Knowledge (IF=15.6, JCR 0.4%)**, ranked 2nd among ~400 SSCI journals in Management.
 

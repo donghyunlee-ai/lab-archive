@@ -1,5 +1,6 @@
 ---
 layout: post
+title: 🎤 [Presentation] KAERE Conference (Avian Influenza Prediction)
 date: 2025-02-06 09:00:00
 inline: false
 ---
