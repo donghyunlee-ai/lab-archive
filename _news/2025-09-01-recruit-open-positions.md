@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2025-09-01 09:00:00
+date: 2025-11-11 09:00:00
 inline: true
 ---
 
-#### 📢 Now Recruiting: Undergraduate and Graduate Students (Master's / Ph.D.)
+#### Now Recruiting: Undergraduate and Graduate Students
 
 Our lab is actively recruiting passionate students for the following positions:
 
