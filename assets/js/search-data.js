@@ -440,12 +440,58 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-presented-at-the-korean-technology-and-management-economics-ktoe-society-summer-conference-automation-of-green-algae-prediction-through-deep-learning-based-mlops-pipeline-an-ai-model-serving-approach-for-policy-utilization-authors-donghyun-lee-sungwon-kang-hyungseo-jeon",
+          title: 'Presented at the Korean Technology and Management Economics (KTOE) Society Summer Conference: “Automation...',
+          description: "",
+          section: "News",},{id: "news-talk-kaere",
+          title: 'Talk Kaere',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-22-talk-kaere/";
+            },},{id: "news-talk-koti",
+          title: 'Talk Koti',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-08-30-talk-koti/";
+            },},{id: "news-paper-jcp",
+          title: 'Paper Jcp',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-09-13-paper-jcp/";
+            },},{id: "news-award-kei-contest",
+          title: 'Award Kei Contest',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-10-21-award-kei-contest/";
+            },},{id: "news-award-sw-contest",
+          title: 'Award Sw Contest',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-11-14-award-sw-contest/";
+            },},{id: "news-patent-air-quality",
+          title: 'Patent Air Quality',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-12-11-patent-air-quality/";
+            },},{id: "news-talk-kaere",
+          title: 'Talk Kaere',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-02-06-talk-kaere/";
+            },},{id: "news-member-visit",
+          title: 'Member Visit',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-02-member-visit/";
             },},{id: "news-news-editor-board",
           title: 'News Editor Board',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-02-news-editor-board/";
-            },},{id: "news-now-recruiting-undergraduate-and-graduate-students-our-lab-is-actively-recruiting-passionate-students-for-the-following-positions-graduate-students-master-s-amp-amp-ph-d-we-are-looking-for-highly-motivated-candidates-to-join-our-master-s-or-ph-d-programs-undergraduate-researchers-we-welcome-undergraduate-students-3rd-year-or-higher-interested-in-gaining-research-experience-especially-those-considering-the-integrated-bachelor-s-master-s-program-or-master-s-program-research-areas-ai-mlops-data-science-ideal-candidate-smart-social-integrity-required-skills-python-preferred-skills-front-back-end-development-how-to-apply-please-send-your-cv-and-cover-letter-to-donghyun-lee-hufs-ac-kr",
+            },},{id: "news-our-paper-reinforced-explainable-ai-for-algal-bloom-forecasting-under-climate-change-a-multi-run-class-activation-mapping-cam-approach-has-been-published-in-the-journal-of-cleaner-production-vol-529-146805-this-work-was-a-fantastic-collaboration-with-our-research-intern-hyeongseo-jeon-congratulations",
+          title: '🎉 Our paper, “Reinforced explainable AI for algal bloom forecasting under climate change:...',
+          description: "",
+          section: "News",},{id: "news-now-recruiting-undergraduate-and-graduate-students-our-lab-is-actively-recruiting-passionate-students-for-the-following-positions-graduate-students-master-s-amp-amp-ph-d-we-are-looking-for-highly-motivated-candidates-to-join-our-master-s-or-ph-d-programs-undergraduate-researchers-we-welcome-undergraduate-students-3rd-year-or-higher-interested-in-gaining-research-experience-especially-those-considering-the-integrated-bachelor-s-master-s-program-or-master-s-program-research-areas-ai-mlops-data-science-ideal-candidate-smart-social-integrity-required-skills-python-preferred-skills-front-back-end-development-how-to-apply-please-send-your-cv-and-cover-letter-to-donghyun-lee-hufs-ac-kr",
           title: 'Now Recruiting: Undergraduate and Graduate Students Our lab is actively recruiting passionate students...',
           description: "",
           section: "News",},{id: "projects-project-1",
