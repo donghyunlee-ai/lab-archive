@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 👏 [Lab News] Alumni Visit: Sangwon Chae (Nonghyup Bank)
+title: 👏 [Lab News] Alumni Visit Sangwon Chae (Nonghyup Bank)
 date: 2025-04-02 09:00:00
 inline: false
 ---

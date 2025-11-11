@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🔒 [Patent] Patent Registered: Air Quality Prediction Method Using AI
+title: 🔒 [Patent] Patent Registered Air Quality Prediction Method Using AI
 date: 2024-12-11 09:00:00
 inline: false
 ---
