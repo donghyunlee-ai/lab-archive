@@ -443,55 +443,57 @@ ninja.data = [{
             },},{id: "news-presented-at-the-korean-technology-and-management-economics-ktoe-society-summer-conference-automation-of-green-algae-prediction-through-deep-learning-based-mlops-pipeline-an-ai-model-serving-approach-for-policy-utilization-authors-donghyun-lee-sungwon-kang-hyungseo-jeon",
           title: 'Presented at the Korean Technology and Management Economics (KTOE) Society Summer Conference: “Automation...',
           description: "",
-          section: "News",},{id: "news-talk-kaere",
-          title: 'Talk Kaere',
+          section: "News",},{id: "news-presentation-kaere-conference-avian-influenza-spatio-temporal-modeling",
+          title: '🎤 [Presentation] KAERE Conference (Avian Influenza Spatio-temporal Modeling)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-08-22-talk-kaere/";
-            },},{id: "news-talk-koti",
-          title: 'Talk Koti',
+            },},{id: "news-presentation-koti-summer-conference-labor-market-analysis-with-llm",
+          title: '🎤 [Presentation] KOTI Summer Conference (Labor Market Analysis with LLM)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-08-30-talk-koti/";
-            },},{id: "news-paper-jcp",
-          title: 'Paper Jcp',
+            },},{id: "news-paper-building-reliable-ai-for-quantifying-uncertainty-jcp-if-9-7-jcr-6-6",
+          title: '📜 [Paper] Building Reliable AI for Quantifying Uncertainty JCP(IF=9.7, JCR 6.6%)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-09-13-paper-jcp/";
-            },},{id: "news-award-kei-contest",
-          title: 'Award Kei Contest',
+            },},{id: "news-award-kei-president-39-s-award-3rd-place-in-environmental-data-contest",
+          title: '🏆 [Award] KEI President&amp;#39;s Award (3rd Place) in Environmental Data Contest',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-10-21-award-kei-contest/";
-            },},{id: "news-award-sw-contest",
-          title: 'Award Sw Contest',
+            },},{id: "news-award-encouragement-award-at-tuk-sw-competition-hyungseo-jeon",
+          title: '🏆 [Award] Encouragement Award at TUK SW Competition (Hyungseo Jeon)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-11-14-award-sw-contest/";
-            },},{id: "news-patent-air-quality",
-          title: 'Patent Air Quality',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-12-11-patent-air-quality/";
-            },},{id: "news-talk-kaere",
-          title: 'Talk Kaere',
+            },},{id: "news-presentation-kaere-conference-avian-influenza-prediction",
+          title: '🎤 [Presentation] KAERE Conference (Avian Influenza Prediction)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-02-06-talk-kaere/";
-            },},{id: "news-member-visit",
-          title: 'Member Visit',
+            },},{id: "news-",
+          title: '',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-02-member-visit/";
-            },},{id: "news-news-editor-board",
-          title: 'News Editor Board',
+            },},{id: "news-news-appointed-editorial-board-for-journal-of-innovation-amp-knowledge-jcr-top-0-4",
+          title: '📰 [News] Appointed Editorial Board for Journal of Innovation &amp;amp; Knowledge (JCR Top...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-04-02-news-editor-board/";
-            },},{id: "news-our-paper-reinforced-explainable-ai-for-algal-bloom-forecasting-under-climate-change-a-multi-run-class-activation-mapping-cam-approach-has-been-published-in-the-journal-of-cleaner-production-vol-529-146805-this-work-was-a-fantastic-collaboration-with-our-research-intern-hyeongseo-jeon-congratulations",
-          title: '🎉 Our paper, “Reinforced explainable AI for algal bloom forecasting under climate change:...',
+            },},{id: "news-paper-xai-for-algal-bloom-forecasting-published-in-jcp-if-10-top-6",
+          title: '📜 [Paper] XAI for Algal Bloom Forecasting published in JCP (IF=10, Top 6%)...',
           description: "",
-          section: "News",},{id: "news-now-recruiting-undergraduate-and-graduate-students-our-lab-is-actively-recruiting-passionate-students-for-the-following-positions-graduate-students-master-s-amp-amp-ph-d-we-are-looking-for-highly-motivated-candidates-to-join-our-master-s-or-ph-d-programs-undergraduate-researchers-we-welcome-undergraduate-students-3rd-year-or-higher-interested-in-gaining-research-experience-especially-those-considering-the-integrated-bachelor-s-master-s-program-or-master-s-program-research-areas-ai-mlops-data-science-ideal-candidate-smart-social-integrity-required-skills-python-preferred-skills-front-back-end-development-how-to-apply-please-send-your-cv-and-cover-letter-to-donghyun-lee-hufs-ac-kr-please-be-sure-to-include-your-gpa-in-your-application-materials",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-10-25-paper-jcp-xai/";
+            },},{id: "news-now-recruiting-undergraduate-and-graduate-students-our-lab-is-actively-recruiting-passionate-students-for-the-following-positions-graduate-students-master-s-amp-amp-ph-d-we-are-looking-for-highly-motivated-candidates-to-join-our-master-s-or-ph-d-programs-undergraduate-researchers-we-welcome-undergraduate-students-3rd-year-or-higher-interested-in-gaining-research-experience-especially-those-considering-the-integrated-bachelor-s-master-s-program-or-master-s-program-research-areas-ai-mlops-data-science-ideal-candidate-smart-social-integrity-required-skills-python-preferred-skills-front-back-end-development-how-to-apply-please-send-your-cv-and-cover-letter-to-donghyun-lee-hufs-ac-kr-please-be-sure-to-include-your-gpa-in-your-application-materials",
           title: 'Now Recruiting: Undergraduate and Graduate Students Our lab is actively recruiting passionate students...',
           description: "",
           section: "News",},{id: "projects-project-1",
