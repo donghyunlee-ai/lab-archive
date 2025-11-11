@@ -33,7 +33,8 @@ This lecture uses Java to teach the fundamental concepts and principles of progr
 
 ---
 
-### 2025 Fall ( Hankuk University of Foreign Studies, Seoul, Republic of Korea )
+### Hankuk University of Foreign Studies, Seoul, South Korea (2025 - )
+#### 2025 Fall
 * **[M04103201] Fundamentals of Social Data Programming**
     This course covers the fundamental concepts of programming using Python. Students will learn to use Python data types, operators, conditionals, loops, functions, and classes, and understand Pythonic code, modules, packages, and exception handling.
 
@@ -45,7 +46,7 @@ This lecture uses Java to teach the fundamental concepts and principles of progr
 
 ---
 
-### Tech University of Korea, Siheung-si, Korea (2017 - 2024)
+### Tech University of Korea, Siheung-si, South Korea (2017 - 2024)
 
 #### 2024 Spring
 * **[AEB43017] Big Data Analysis**
