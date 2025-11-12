@@ -14,15 +14,13 @@ announcements:
   limit: 5
 ---
 
-**Welcome to the Donghyun Lee AI Group at HUFS**
-
-Our mission is to advance **Trustworthy AI** and its application to critical societal challenges, focusing on systems that are interpretable and reliable.
+We are a research group led by Prof. Donghyun Lee at Hankuk University of Foreign Studies (HUFS), Seoul. Our mission is to advance **Trustworthy AI** and its application to critical societal challenges, focusing on systems that are interpretable and reliable.
 
 ---
 
 ## 🔬 Research Areas
 
-Our research operates at the intersection of advanced AI and social science applications.
+Our research operates at the intersection of AI and social science.
 
 - **Trustworthy & Explainable AI (XAI):** We build transparent AI for high-stakes decisions, focusing on interpretable deep learning, uncertainty quantification, and responsible LLMs.
 - **AI for Social & Environmental Analytics:** We apply AI and big data analytics to solve societal problems, including environmental forecasting (e.g., air quality, algal blooms) and public health trend analysis.
