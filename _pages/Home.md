@@ -18,9 +18,7 @@ We are a research group led by Prof. Donghyun Lee at Hankuk University of Foreig
 
 ---
 
-## 🔬 Research Areas
-
-Our research operates at the intersection of AI and social science.
+**🔬 Research Areas**
 
 - **Trustworthy & Explainable AI (XAI):** We build transparent AI for high-stakes decisions, focusing on interpretable deep learning, uncertainty quantification, and responsible LLMs.
 - **AI for Social & Environmental Analytics:** We apply AI and big data analytics to solve societal problems, including environmental forecasting (e.g., air quality, algal blooms) and public health trend analysis.
