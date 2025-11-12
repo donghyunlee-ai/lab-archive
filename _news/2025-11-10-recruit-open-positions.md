@@ -20,5 +20,5 @@ Our lab is actively recruiting passionate students for the following positions:
 - **[Ideal Candidate]** Smart, Social, Integrity
 - **[Required Skills]** Python
 - **[Preferred Skills]** Front/Back-End Development
-- **[How to Apply]** Please send your CV and Cover Letter to **donghyun.lee@hufs.ac.kr**.
+- **[How to Apply]** Please send your CV and Cover Letter to **donghyun.lee [at] hufs.ac.kr**.
   - (Please be sure to include your GPA in your application materials.)
