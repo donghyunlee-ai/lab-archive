@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Donghyun Lee
 middle_name:
 last_name: AI Group
-contact_note: >
-  Division of Social Science & AI, College of AI Convergence (Seoul), Hankuk University of Foreign Studies
-  Address: 107 Imun-ro, Dongdaemun-gu, Seoul 02450, Republic of Korea
+contact_note: |
+  Division of Social Science & AI, College of AI Convergence (Seoul), Hankuk University of Foreign Studies 
+  107 Imun-ro, Dongdaemun-gu, Seoul 02450, Republic of Korea
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Donghyun Lee AI Group
 footer_text: >
 
 keywords: donghyunlee, hufs, donghyunlee-ai # add your own keywords or leave empty
