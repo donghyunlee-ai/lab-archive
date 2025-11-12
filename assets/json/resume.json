@@ -235,19 +235,19 @@
       "name": "Research & Methodology",
       "level": "Expert",
       "icon": "fa-solid fa-calculator",
-      "keywords": ["Econometrics", "Discrete Choice Model", "CVM", "Hazard Model"]
+      "keywords": ["Econometrics", "Technology Management", "Discrete Choice Model", "CVM", "Hazard Model"]
     },
     {
       "name": "Machine Learning & AI",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": ["Trustworthy AI", "LLM", "PyTorch", "Tensorflow", "LangChain (sLLM)"]
+      "keywords": ["Trustworthy AI", "LLM", "PyTorch", "Tensorflow", "LangChain (sLLM)", "ML"]
     },
     {
       "name": "Data Analysis & Programming",
       "level": "Expert",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": ["Python", "R", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS"]
+      "keywords": ["Python", "R", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS", "EDA"]
     },
     {
       "name": "System Architecture & Development",
