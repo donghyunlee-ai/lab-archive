@@ -16,7 +16,7 @@ announcements:
 
 **Welcome to the Donghyun Lee AI Group at HUFS**
 
-We are a research group led by Prof. Donghyun Lee at Hankuk University of Foreign Studies (HUFS), Seoul. Our mission is to advance **Trustworthy AI** and its application to critical societal challenges, focusing on systems that are interpretable and reliable.
+Our mission is to advance **Trustworthy AI** and its application to critical societal challenges, focusing on systems that are interpretable and reliable.
 
 ---
 
@@ -30,6 +30,4 @@ Our research operates at the intersection of advanced AI and social science appl
 
 ---
 
-We are always open to research collaborations and are actively looking for motivated graduate students (Master's/Ph.D.). If you are interested in our work, please feel free to contact Prof. Donghyun Lee.
-
-**Email**: donghyun.lee [at] hufs.ac.kr
+We are always open to research collaborations and are actively looking for motivated graduate students (Master's/Ph.D.). If you are interested in our work, please feel free to contact **Email**: donghyun.lee [at] hufs.ac.kr.
