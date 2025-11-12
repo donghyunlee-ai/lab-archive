@@ -232,10 +232,28 @@
   ],
   "skills": [
     {
-      "name": "AI Research",
+      "name": "Research & Methodology",
       "level": "Expert",
-      "icon": "fa-solid fa-microscope",
-      "keywords": ["Trustworthy AI", "AI in Social Science", "Technology Management"]
+      "icon": "fa-solid fa-calculator",
+      "keywords": ["Econometrics", "Discrete Choice Model", "CVM", "Hazard Model"]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Trustworthy AI", "LLM", "PyTorch", "Tensorflow", "LangChain (sLLM)"]
+    },
+    {
+      "name": "Data Analysis & Programming",
+      "level": "Expert",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": ["Python", "R", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS"]
+    },
+    {
+      "name": "System Architecture & Development",
+      "level": "Industrial Expert",
+      "icon": "fa-solid fa-server",
+      "keywords": ["System Architecture", "Back-End (FastAPI, Flask, JAVA)", "Front-End (Dashboard)", "Cloud (AWS, Docker)", "CI / CD"]
     }
   ],
   "languages": [
