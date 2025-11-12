@@ -255,7 +255,7 @@
       "icon": "fa-solid fa-server",
       "keywords": [
         "System Architecture",
-        "Back-End (FastAPI, Flask, JAVA)",
+        "Back-End (FastAPI, Flask)",
         "Front-End (HTML, CSS, Dashboard)",
         "Infrastructure (AWS, On-premise, Docker)",
         "DevOps (CI / CD)"
