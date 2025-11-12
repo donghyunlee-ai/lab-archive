@@ -247,7 +247,7 @@
       "name": "Data Analysis & Programming",
       "level": "Expert",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": ["Python", "R", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS", "EDA"]
+      "keywords": ["Programming (Python, R, Java, C, HTML, CSS)", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS"]
     },
     {
       "name": "System Architecture & Development",
