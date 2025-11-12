@@ -22,8 +22,6 @@ Our mission is to build **Trustworthy AI** systems and apply them to solve criti
 
 **🔬 Research Areas**
 
-Our research is centered around three core themes:
-
 - **Trustworthy & Explainable AI (XAI):**
   Interpretable deep learning, uncertainty quantification, and responsible LLMs.
 - **AI for Environment & Society:**
