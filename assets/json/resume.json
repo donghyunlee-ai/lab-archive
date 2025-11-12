@@ -241,13 +241,13 @@
       "name": "Machine Learning & AI",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": ["Trustworthy AI", "LLM", "PyTorch", "Tensorflow", "LangChain (sLLM)", "ML"]
+      "keywords": ["Trustworthy AI", "LLM (sLLM, LangChain)", "PyTorch", "Tensorflow", "ML"]
     },
     {
       "name": "Data Analysis & Programming",
       "level": "Expert",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": ["Programming (Python, R, Java, C, HTML, CSS)", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS"]
+      "keywords": ["Programming (Python, R, Java, C)", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS"]
     },
     {
       "name": "System Architecture & Development",
@@ -256,7 +256,7 @@
       "keywords": [
         "System Architecture",
         "Back-End (FastAPI, Flask, JAVA)",
-        "Front-End (Dashboard)",
+        "Front-End (HTML, CSS, Dashboard)",
         "Infrastructure (AWS, On-premise, Docker)",
         "DevOps (CI / CD)"
       ]
