@@ -7,9 +7,6 @@ profile:
   align: right
   image: portrait.jpg
   image_circular: false
-  more_info: >
-    <p>📍 107, Imun-ro, Dongdaemun-gu, Seoul, South Korea (02450)</p>
-    <p>☎ +82-2-2173-3054</p>
 social: true
 announcements:
   enabled: true
