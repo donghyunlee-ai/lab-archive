@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: HUFS AI & Social Science Lab, Seoul, South Korea
+subtitle: AI & Social Science in HUFS, Seoul, South Korea
 profile:
   align: right
   image: portrait.jpg
