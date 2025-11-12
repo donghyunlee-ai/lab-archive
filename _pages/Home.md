@@ -8,8 +8,7 @@ profile:
   image: portrait.jpg
   image_circular: false
   more_info: >
-    <p>📍 Room 305, Faculty Building</p>
-    <p>107, Imun-ro, Dongdaemun-gu, Seoul, South Korea (02450)</p>
+    <p>📍 107, Imun-ro, Dongdaemun-gu, Seoul, South Korea (02450)</p>
     <p>☎ +82-2-2173-3054</p>
 social: true
 announcements:
