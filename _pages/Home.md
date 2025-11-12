@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: AI & Social Science in HUFS, Seoul, South Korea
+subtitle: Social Science & AI in HUFS, Seoul, South Korea
 profile:
   align: right
   image: portrait.jpg
@@ -14,16 +14,23 @@ announcements:
   limit: 5
 ---
 
-We are a research group led by Prof. Donghyun Lee at Hankuk University of Foreign Studies (HUFS), Seoul. Our mission is to advance **Trustworthy AI** and its application to critical societal challenges, focusing on systems that are interpretable and reliable.
+Welcome to the **Donghyun Lee AI Group** at Hankuk University of Foreign Studies (HUFS), Seoul, led by Prof. Donghyun Lee.
+
+Our mission is to build **Trustworthy AI** systems and apply them to solve critical societal and environmental challenges. We focus on developing AI that is reliable, interpretable, and robust for real-world decision-making.
 
 ---
 
 **🔬 Research Areas**
 
-- **Trustworthy & Explainable AI (XAI):** We build transparent AI for high-stakes decisions, focusing on interpretable deep learning, uncertainty quantification, and responsible LLMs.
-- **AI for Social & Environmental Analytics:** We apply AI and big data analytics to solve societal problems, including environmental forecasting (e.g., air quality, algal blooms) and public health trend analysis.
-- **AI-driven Technology Management:** We investigate the strategic application and impact of AI, informed by a background in Technology and Innovation Management.
+Our research is centered around three core themes:
+
+- **Trustworthy & Explainable AI (XAI):**
+  Interpretable deep learning, uncertainty quantification, and responsible LLMs.
+- **AI for Environment & Society:**
+  Applying AI analytics to environmental forecasting (e.g., air quality, algal blooms) and public health challenges.
+- **AI-driven Technology Management:**
+  Investigating the strategic impact and management of AI innovation.
 
 ---
 
-We are always open to research collaborations and are actively looking for motivated graduate students (Master's/Ph.D.). If you are interested in our work, please feel free to contact **Email**: donghyun.lee [at] hufs.ac.kr.
+We are actively seeking motivated graduate students (Master's/Ph.D.) and are always open to research collaborations. If you are interested in our work, please contact Prof. Lee at **donghyun.lee [at] hufs.ac.kr**.
