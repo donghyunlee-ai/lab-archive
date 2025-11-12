@@ -14,8 +14,22 @@ announcements:
   limit: 5
 ---
 
-My name is Donghyun Lee, and I am an Associate Professor in the Division of Social Science & AI at Hankuk University of Foreign Studies (HUFS).
+**Welcome to the Donghyun Lee AI Group at HUFS**
 
-We are actively looking for motivated graduate students. If you are interested in pursuing a Master's or Ph.D., please feel free to contact me via email.
+We are a research group led by Prof. Donghyun Lee at Hankuk University of Foreign Studies (HUFS), Seoul. Our mission is to advance **Trustworthy AI** and its application to critical societal challenges, focusing on systems that are interpretable and reliable.
+
+---
+
+## 🔬 Research Areas
+
+Our research operates at the intersection of advanced AI and social science applications.
+
+- **Trustworthy & Explainable AI (XAI):** We build transparent AI for high-stakes decisions, focusing on interpretable deep learning, uncertainty quantification, and responsible LLMs.
+- **AI for Social & Environmental Analytics:** We apply AI and big data analytics to solve societal problems, including environmental forecasting (e.g., air quality, algal blooms) and public health trend analysis.
+- **AI-driven Technology Management:** We investigate the strategic application and impact of AI, informed by a background in Technology and Innovation Management.
+
+---
+
+We are always open to research collaborations and are actively looking for motivated graduate students (Master's/Ph.D.). If you are interested in our work, please feel free to contact Prof. Donghyun Lee.
 
 **Email**: donghyun.lee [at] hufs.ac.kr
