@@ -79,15 +79,15 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Korea Advanced Institute of Science and Technology (KAIST), College of Business",
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
       "location": "Daejeon, South Korea",
       "url": "",
-      "area": "Graduate School of Technology and Innovation Management",
-      "studyType": "Ph.D. in Engineering",
+      "area": "Information and Communication Engineering",
+      "studyType": "Bachelor of Engineering",
       "startDate": "",
-      "endDate": "2016-08-31",
+      "endDate": "2009-08-31",
       "score": "",
-      "courses": ["Dissertation: Essays on big data analytics in industrial research: Green energy policy and patent litigation."]
+      "courses": ["IT Business minor"]
     },
     {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST), College of Business",
@@ -101,15 +101,15 @@
       "courses": []
     },
     {
-      "institution": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST), College of Business",
       "location": "Daejeon, South Korea",
       "url": "",
-      "area": "Information and Communication Engineering",
-      "studyType": "Bachelor of Engineering",
+      "area": "Graduate School of Technology and Innovation Management",
+      "studyType": "Ph.D. in Engineering",
       "startDate": "",
-      "endDate": "2009-08-31",
+      "endDate": "2016-08-31",
       "score": "",
-      "courses": ["IT Business minor"]
+      "courses": ["Dissertation: Essays on big data analytics in industrial research: Green energy policy and patent litigation."]
     }
   ],
   "awards": [
@@ -321,7 +321,7 @@
       "name": "Development of Performance Indicators and Management System for LAMP Project (Co-Investigator)",
       "summary": "Funded by Korea Research Foundation.",
       "highlights": [],
-      "startDate": "2023-11",
+      "startDate": "2small-caps3-11",
       "endDate": "2024-03",
       "url": ""
     },
