@@ -31,8 +31,6 @@ Our mission is to build **Trustworthy AI** systems and apply them to solve criti
 
 ---
 
-We are actively seeking motivated graduate students (Master's/Ph.D.) and are always open to research collaborations.
-
-See where our graduates **read their [interview with our alumnus, Sangwon Chae (NH Bank)](https://blog.naver.com/tukorea_official/222191800108)** to learn more about our group.
+We are actively seeking motivated graduate students (Master's/Ph.D.) and are always open to research collaborations. Learn more from our **[alumnus interview (Sangwon Chae, NH Bank)](https://blog.naver.com/tukorea_official/222191800108)**.
 
 If you are interested in our work, please contact Prof. Lee at **donghyun.lee [at] hufs.ac.kr**.
