@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-presentation-kaere-conference-avian-influenza-spatio-temporal-modeling",
-          title: '🎤 [Presentation] KAERE Conference (Avian Influenza Spatio-temporal Modeling)',
+            },},{id: "news-presentation-kstme-summer-conference-algal-bloom-mlops",
+          title: '🎤 [Presentation] KSTME Summer Conference (Algal Bloom MLOps)',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-07-06-talk-ktoe/";
