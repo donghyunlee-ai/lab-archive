@@ -11,4 +11,4 @@ He delivered a practical talk titled **"The Role of a Data Analyst in an IT Star
 
 It was a fantastic session providing realistic advice to our current students. We are proud of him and thankful for the visit!
 
-<img src="/assets/img/posts/post_2025-11-14.jpg" alt="Hyun Jung Seminar" style="600">
+<img src="/assets/img/posts/post_2025-11-14.jpeg" alt="Hyun Jung Seminar" style="600">
