@@ -5,47 +5,30 @@ permalink: /alumni/
 nav: false
 ---
 
-- **Sangwon Chae**
-  NH Bank
+- **Sangwon Chae** (Data Analyst, **NH Bank**)
 
-- **Minkyu Kim**
+- **Minkyu Kim** (Data Scientist)
 
-- **Sangmok Lee**
-  KRAFTON
-  Coinone
+- **Sangmok Lee** (Data Analyst, **KRAFTON**, Coinone)
 
-- **Yunhwan Kim**
-  Toss Payments
-  Neowiz
+- **Yunhwan Kim** (Data Analyst & Data Engineer, **Toss Payments**, Neowiz)
 
-- **Suyeong Jang**
-  Toss Payments
-  KRAFTON
+- **Suyeong Jang** (Data Analyst, **Toss Payments**, KRAFTON)
 
-- **Hyun Jung**
-  Toss Place
-  Kakao Style
-  Kurly
+- **Hyun Jung** (Data Analyst, **Toss Place**, Kakao Style, Kurly)
 
-- **Geonu Park**
-  Gravity (NASDAQ)
+- **Geonu Park** (Data Analyst & Data Engineer, **Gravity (NASDAQ)**)
 
-- **Seongjun Kwon**
-  KB Bank
+- **Seongjun Kwon** (Data Analyst & Data Engineer, **KB Bank**)
 
-- **Jaehyeok Kim**
-  eBest Investment Bank
+- **Jaehyeok Kim** (VC, **eBest Investment Bank**, Qraft(AI Quant))
 
-- **Jaehun Park**
-  Hyundai Capital
+- **Jaehun Park** (Data Analyst, **Hyundai Capital**)
 
-- **Seho Hwang**
-  Penta System
+- **Seho Hwang** (Data Analyst, **Penta System**)
 
-- **Junhyeok Shin**
+- **Junhyeok Shin** (Data Analyst)
 
-- **Beomhui Lee**
-  Postech master course
+- **Beomhui Lee** (Data Scientist, **Postech master course**)
 
-- **Seungyeop Oh**
-  DeepX
+- **Seungyeop Oh** (Data Scientist, **DeepX**)
