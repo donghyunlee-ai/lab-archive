@@ -3,7 +3,7 @@ layout: project
 title: AI for Algal Bloom Forecasting
 description: Developing a Trustworthy AI model to predict harmful algal blooms (HABs).
 importance: 1
-thumbnail: /assets/img/publication_preview/lee2025reinforced.jpg
+thumbnail: publication_preview/lee2025reinforced.jpg
 ---
 
 This project focuses on building a reliable and interpretable deep learning model (XAI) to forecast algal bloom occurrences.
