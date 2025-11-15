@@ -6,3 +6,5 @@ inline: false
 ---
 
 Our domestic patent for **"Air Quality Prediction Method Using Artificial Intelligence"** (Application No. 10-2022-0015727) has been successfully registered.
+
+<img src="/assets/img/posts/post_2024-12-11.png" alt="Patent Registrated" style="max-width: 600px;">
