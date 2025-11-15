@@ -12,15 +12,20 @@ nav: false
 
 - **Sangmok Lee**
   KRAFTON
+  Coinone
 
 - **Yunhwan Kim**
   Toss Payments
+  Neowiz
 
 - **Suyeong Jang**
   Toss Payments
+  KRAFTON
 
-- **Jung hyun**
+- **Hyun Jung**
   Toss Place
+  Kakao Style
+  Kurly
 
 - **Geonu Park**
   Gravity (NASDAQ)
