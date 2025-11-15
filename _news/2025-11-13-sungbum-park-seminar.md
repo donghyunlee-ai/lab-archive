@@ -9,4 +9,4 @@ We had a special seminar by **Sungbum Park**, a Solutions Architect from a leadi
 
 He delivered an insightful lecture on **"Agentic AI & Cloud"** and provided valuable career mentoring to our students. We sincerely thank him for sharing his expertise and time.
 
-<img src="/assets/img/posts/post_2025-11-13.jpg" alt="Sungbum Park Seminar" style="max-width: 600px;">
+<img src="/assets/img/posts/post_2025-11-13.jpg" alt="Sungbum Park Seminar" width="600">
