@@ -22,6 +22,10 @@
 
 ### Conference Presentations
 
+- **"Spatial Spread Prediction of Emerging Infectious Diseases using On-Device Agentic AI Framework."**
+
+  - _Korean Society of Zoonoses (KSZ) Conference (Nov. 2025)_
+
 - **"A Study on Avian Influenza Outbreak Prediction Based on Explainable AI Considering Uncertainty."**
 
   - _Korea Environmental Economics Association, Joint Conference on Economics (Feb. 2025)_
