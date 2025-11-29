@@ -9,4 +9,4 @@ Our lab (Hyungseo Jeon and Prof. Donghyun Lee) won the **KEI President's Award (
 
 - [News Link](https://www.dt.co.kr/article/11623113)
 
-<img src="/assets/img/posts/post_2024-10-21.jpg" alt="KEI President Award" style="max-width: 600px;">
+{% include figure.liquid loading="eager" path="assets/img/posts/post_2024-10-21.jpg" title="KEI President Award" class="img-fluid rounded z-depth-1" zoomable=true %}

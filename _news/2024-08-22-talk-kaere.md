@@ -7,4 +7,4 @@ inline: false
 
 Presented at the **Korea Environmental Economics Association (KAERE) Conference**: "Spatio-temporal Modeling and Impact Factor Analysis for Avian Influenza Spread Prediction." (Authors: Hyungseo Jeon (1st), Donghyun Lee (Corresponding))
 
-<img src="/assets/img/posts/post_2024-08-22.png" alt="KAERE Conference" style="max-width: 600px;">
+{% include figure.liquid loading="eager" path="assets/img/posts/post_2024-08-22.png" title="KAERE Conference" class="img-fluid rounded z-depth-1" zoomable=true %}
