@@ -491,6 +491,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-11-21-talk-ksz/";
+            },},{id: "news-event-2025-lab-homecoming-day",
+          title: '🎉 [Event] 2025 Lab Homecoming Day',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-27-home-comming-day/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
