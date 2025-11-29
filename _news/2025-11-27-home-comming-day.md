@@ -11,4 +11,4 @@ It was a heartwarming event where our **alumni** returned to campus to reconnect
 
 We truly appreciate everyone who took the time to visit. It was wonderful to see our lab community growing strong!
 
-{% include figure.liquid loading="eager" path="assets/img/posts/post_2025-11-27_homecoming.png" title="2025 Lab Homecoming Day" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/posts/post_2025-11-27.png" title="2025 Lab Homecoming Day" class="img-fluid rounded z-depth-1" zoomable=true %}
