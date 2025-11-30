@@ -5,10 +5,10 @@ date: 2025-11-27 18:00:00
 inline: false
 ---
 
-On November 27th, we successfully hosted the **2025 Lab Homecoming Day**.
+On November 27th, we spent a memorable evening celebrating our **2025 Lab Homecoming Day**.
 
-It was a heartwarming event where our **alumni** returned to campus to reconnect with the professor and current lab members. The event provided a great opportunity to bridge the gap between graduates and current students, sharing industry insights, research updates, and fond memories.
+It was a heartwarming reunion, welcoming our **alumni** back to where their journey began. Graduates and current students spent the evening bridging the gap between generations, exchanging advice, updates, and fond memories.
 
-We truly appreciate everyone who took the time to visit. It was wonderful to see our lab community growing strong!
+We are deeply grateful to everyone who took the time to visit. It was a joy to see our lab community together again.
 
 {% include figure.liquid loading="eager" path="assets/img/posts/post_2025-11-27.png" title="2025 Lab Homecoming Day" class="img-fluid rounded z-depth-1" zoomable=true %}
