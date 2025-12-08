@@ -10,4 +10,4 @@
 
 **Awards**
 
-- President's Award (KEI, 2024) | Encouragement Prize (TUKorea, 2024)
+- President's Award (KEI, 2024), Encouragement Prize (TUKorea, 2024)
