@@ -92,10 +92,10 @@ horizontal: false
   <div class="list-group">
     <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
       <div class="d-flex w-100 justify-content-between">
-        <h5 class="mb-1 fw-bold">Wild Bird Avian Influenza Spread Prediction Research (II & III)</h5>
-        <small class="text-muted">2024 - Present</small>
+        <h5 class="mb-1 fw-bold">Wild Bird Avian Influenza Spread Prediction Research</h5>
+        <small class="text-muted">2023 - 2025</small>
       </div>
-      <p class="mb-1 mt-2">Developing spatial spread prediction models using On-Device Agentic AI Framework.</p>
+      <p class="mb-1 mt-2">Developing spatial spread prediction models using Machine Learning.</p>
       <small class="text-primary"><i class="fas fa-building"></i> Funded by National Wildlife Disease Management Institute</small>
     </div>
 

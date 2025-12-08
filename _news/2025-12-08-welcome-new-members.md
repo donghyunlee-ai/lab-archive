@@ -14,11 +14,11 @@ They will be conducting research in the fields of **Agentic AI** and **AI in Soc
 Welcome aboard!
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm">
         {% include figure.liquid loading="eager" path="assets/img/pic_cwk.jpg" title="Chaewoo Kim" class="img-fluid rounded z-depth-1" %}
         <div class="caption">Chaewoo Kim</div>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm">
         {% include figure.liquid loading="eager" path="assets/img/pic_sys.jpg" title="Suyeon Seong" class="img-fluid rounded z-depth-1" %}
         <div class="caption">Suyeon Seong</div>
     </div>
