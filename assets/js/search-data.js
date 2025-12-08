@@ -500,7 +500,7 @@ ninja.data = [{
           title: '👏 [News] Welcome New Undergraduate Researchers!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2025-12-08-welcome-new-members/";
+              window.location.href = "/news/2025-12-08-welcome-new/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
