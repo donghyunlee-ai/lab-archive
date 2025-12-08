@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "Selected research projects from the Donghyun Lee AI Group.",
+        },{id: "nav-projects-amp-capabilities",
+          title: "Projects &amp; Capabilities",
+          description: "R&amp;D capabilities and strategic partnerships of the Donghyun Lee AI Group.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
