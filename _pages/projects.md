@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects & Capabilities
+title: Projects
 permalink: /projects/
-description: R&D capabilities and strategic partnerships of the Donghyun Lee AI Group.
+description: Overview of research projects, R&D capabilities, and collaborative networks of the Donghyun Lee AI Group.
 nav: true
 nav_order: 4
 horizontal: false
@@ -86,10 +86,71 @@ horizontal: false
 <hr class="my-4">
 
 <div class="container mb-5">
+  <h3 class="mb-4">Selected Research Projects</h3>
+  <p class="text-muted mb-4">Highlighting recent key projects funded by major institutions.</p>
+  
+  <div class="list-group">
+    <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
+      <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1 fw-bold">Wild Bird Avian Influenza Spread Prediction Research (II & III)</h5>
+        <small class="text-muted">2024 - Present</small>
+      </div>
+      <p class="mb-1 mt-2">Developing spatial spread prediction models using On-Device Agentic AI Framework.</p>
+      <small class="text-primary"><i class="fas fa-building"></i> Funded by National Wildlife Disease Management Institute</small>
+    </div>
+
+    <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
+      <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1 fw-bold">Simulation of Infectious Disease Prediction Using Transfer Learning</h5>
+        <small class="text-muted">2020 - 2025</small>
+      </div>
+      <p class="mb-1 mt-2">Long-term research on AI-based infectious disease modeling and transfer learning applications.</p>
+      <small class="text-primary"><i class="fas fa-building"></i> Funded by Korea Research Foundation (NRF)</small>
+    </div>
+
+    <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
+      <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1 fw-bold">Industrial Workforce Market Trends Analysis with LLM</h5>
+        <small class="text-muted">2024</small>
+      </div>
+      <p class="mb-1 mt-2">Utilizing Big Data and Large Language Models (LLM) for analyzing trends and demand.</p>
+      <small class="text-primary"><i class="fas fa-building"></i> Funded by Office of Strategic R&D Planning</small>
+    </div>
+
+    <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
+      <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1 fw-bold">Test Data Analysis for EV Lithium-Ion Batteries</h5>
+        <small class="text-muted">2023</small>
+      </div>
+      <p class="mb-1 mt-2">Remaining life measurement analysis and modeling for electric vehicle batteries.</p>
+      <small class="text-primary"><i class="fas fa-building"></i> Funded by Korea Test Laboratory (KTL)</small>
+    </div>
+
+    <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
+      <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1 fw-bold">Automated MLOps Pipeline for Algal Bloom Prediction</h5>
+        <small class="text-muted">2023</small>
+      </div>
+      <p class="mb-1 mt-2">Construction of automated data pipeline using deep learning for MLOps.</p>
+      <small class="text-primary"><i class="fas fa-building"></i> Funded by Korea Environment Institute (KEI)</small>
+    </div>
+
+  </div>
+
+  <div class="text-center mt-4">
+    <a href="https://donghyunlee-ai.github.io/professor/" class="btn btn-outline-dark">
+      <i class="fas fa-user-tie me-2"></i> View Full Project List on PI's Profile
+    </a>
+  </div>
+</div>
+
+<hr class="my-4">
+
+<div class="container mb-5">
   <div class="row">
     <div class="col-12">
       <div class="p-4 bg-light rounded-3 border">
-        <h4>🤝 Partnership Inquiry</h4>
+        <h4>🤝 Collaboration Inquiry</h4>
         <p class="mt-2">
           We welcome proposals for <strong>joint research, industrial projects, and technical consulting.</strong><br>
           If you are looking for a professional AI R&D partner, please feel free to contact us.
@@ -114,11 +175,11 @@ horizontal: false
   <div class="row align-items-center justify-content-center grayscale-logos text-center">
     
     <div class="col-6 col-sm-4 col-lg-2 mb-4">
-      {% include figure.liquid loading="lazy" path="assets/img/partners/logo_kei.png" class="img-fluid logo-img" %}
+      {% include figure.liquid loading="lazy" path="assets/img/partners/logo_kei.jpg" class="img-fluid logo-img" %}
     </div>
 
     <div class="col-6 col-sm-4 col-lg-2 mb-4">
-      {% include figure.liquid loading="lazy" path="assets/img/partners/logo_nrf.png" class="img-fluid logo-img" %}
+      {% include figure.liquid loading="lazy" path="assets/img/partners/logo_nrf.jpg" class="img-fluid logo-img" %}
     </div>
 
     <div class="col-6 col-sm-4 col-lg-2 mb-4">
@@ -138,7 +199,7 @@ horizontal: false
     </div>
 
     <div class="col-6 col-sm-4 col-lg-2 mb-4">
-      {% include figure.liquid loading="lazy" path="assets/img/partners/logo_niwdc.png" class="img-fluid logo-img" %}
+      {% include figure.liquid loading="lazy" path="assets/img/partners/logo_niwdc.jpg" class="img-fluid logo-img" %}
     </div>
 
     <div class="col-6 col-sm-4 col-lg-2 mb-4">
@@ -158,7 +219,7 @@ horizontal: false
     filter: grayscale(100%);
     opacity: 0.5;
     transition: all 0.3s ease;
-    max-height: 50px; /* 로고 높이를 조금 줄여서 세련되게 */
+    max-height: 50px;
     width: auto;
     object-fit: contain;
   }
