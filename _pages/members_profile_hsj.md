@@ -1,4 +1,4 @@
-**Interests:** MLOps, AI Agent
+**Interests:** Agentic AI, MLOps
 
 **Publications**
 
@@ -10,4 +10,4 @@
 
 **Awards**
 
-- President's Award (KEI, 2024) | Encouragement Prize (Tukorea SW, 2024)
+- President's Award (KEI, 2024) | Encouragement Prize (TUKorea, 2024)
