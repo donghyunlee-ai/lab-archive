@@ -12,7 +12,3 @@ We are excited to welcome two new undergraduate research interns to our lab!
 They will be conducting research in the fields of **Agentic AI** and **AI in Social Science**, respectively. We look forward to their passion and valuable contributions to our group.
 
 Welcome aboard!
-
-{% include figure.liquid loading="eager" path="assets/img/pic_cwk.jpg" title="Chaewoo Kim" class="img-fluid rounded z-depth-1" caption="Chaewoo Kim" zoomable=true %}
-
-{% include figure.liquid loading="eager" path="assets/img/pic_sys.jpg" title="Suyeon Seong" class="img-fluid rounded z-depth-1" caption="Suyeon Seong" zoomable=true %}
