@@ -13,5 +13,5 @@ profiles:
     more_info: |
       <p><strong>Research Intern</strong></p>
       <p>Jeon Hyeongseo</p>
-      <p>jin0004@tukorea.ac.kr</p>
+      <p>jin0004 [at] tukorea.ac.kr</p>
 ---
