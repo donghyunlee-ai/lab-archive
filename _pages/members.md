@@ -33,7 +33,7 @@ profiles:
       <p>Suyeon Seong</p>
       <p>sooyeon05 [at] hufs.ac.kr</p>
 
-  - align: right
+  - align: left
     image: pic_yhp.jpeg
     content: members_profile_yhp.md
     image_circular: false
