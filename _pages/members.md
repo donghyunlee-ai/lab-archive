@@ -11,7 +11,7 @@ profiles:
     content: members_profile_hsj.md
     image_circular: false
     more_info: |
-      <p><strong>Research Intern</strong></p>
+      <p><strong>M.S. Student (from March 2026)</strong></p>
       <p>Jeon Hyeongseo</p>
       <p>jin0004 [at] tukorea.ac.kr</p>
 
