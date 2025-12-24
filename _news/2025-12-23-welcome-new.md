@@ -11,9 +11,9 @@ We are pleased to welcome a new **Undergraduate Researcher** to our lab!
 
 ---
 
-### 🚫 Undergraduate Recruitment Update
+### Undergraduate Recruitment Update
 
-We would also like to announce that the **undergraduate research recruitment for this season is now officially closed.** We sincerely appreciate the overwhelming interest and the high quality of applications we received. Thank you to everyone who applied and showed interest in our lab's research. We wish you the very best in your academic journey.
+We would also like to announce that the **Undergraduate Researcher recruitment for this season is now officially closed.** We sincerely appreciate the overwhelming interest and the applications we received. Thank you to everyone who applied and showed interest in our group's research. We wish you the very best in your academic journey.
 
 <div class="row mt-3">
     <div class="col-sm text-center">
