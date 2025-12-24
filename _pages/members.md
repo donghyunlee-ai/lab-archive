@@ -34,7 +34,7 @@ profiles:
       <p>sooyeon05 [at] hufs.ac.kr</p>
 
   - align: right
-    image: pic_yhp.jpg
+    image: pic_yhp.jpeg
     content: members_profile_yhp.md
     image_circular: false
     more_info: |
