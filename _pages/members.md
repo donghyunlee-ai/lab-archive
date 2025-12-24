@@ -32,4 +32,13 @@ profiles:
       <p><strong>Undergraduate</strong></p>
       <p>Suyeon Seong</p>
       <p>sooyeon05 [at] hufs.ac.kr</p>
+
+  - align: right
+    image: pic_yhp.jpg
+    content: members_profile_yhp.md
+    image_circular: false
+    more_info: |
+      <p><strong>Undergraduate</strong></p>
+      <p>Yeonhoo Park</p>
+      <p>bellnice5 [at] hufs.ac.kr</p>
 ---
