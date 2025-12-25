@@ -31,7 +31,7 @@ nav: false
 
 - **Junhyeok Shin** (Data Analyst, **Startup**)
 
-- **Beomhui Lee** (Data Scientist, **Postech master course**)
+- **Beomhui Lee** (Data Scientist, **Hanwha Ocean**)
 
 - **Minkyu Kim** (Data Scientist)
 
