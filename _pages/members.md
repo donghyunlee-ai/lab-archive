@@ -39,6 +39,6 @@ profiles:
     image_circular: false
     more_info: |
       <p><strong>Undergraduate</strong></p>
-      <p>Yeonhoo Park </p>
+      <p>Yeonhoo Park</p>
       <p>bellnice55 [at] hufs.ac.kr</p>
 ---
