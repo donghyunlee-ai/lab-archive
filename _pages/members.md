@@ -40,5 +40,5 @@ profiles:
     more_info: |
       <p><strong>Undergraduate</strong></p>
       <p>Yeonhoo Park</p>
-      <p>bellnice5 [at] hufs.ac.kr</p>
+      <p>bellnice55 [at] hufs.ac.kr</p>
 ---
