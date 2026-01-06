@@ -506,6 +506,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-23-welcome-new/";
+            },},{id: "news-news-prof-donghyun-lee-appointed-to-itpr-editorial-board",
+          title: '📢 [News] Prof. Donghyun Lee Appointed to ITPR Editorial Board',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-01-05-prof-lee-itpr-editorial-board/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
