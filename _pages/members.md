@@ -24,15 +24,6 @@ profiles:
       <p>Chaewoo Kim</p>
       <p>kcwkcm [at] hufs.ac.kr</p>
 
-  - align: right
-    image: pic_sys.jpg
-    content: members_profile_sys.md
-    image_circular: false
-    more_info: |
-      <p><strong>Undergraduate</strong></p>
-      <p>Suyeon Seong</p>
-      <p>sooyeon05 [at] hufs.ac.kr</p>
-
   - align: left
     image: pic_yhp.jpeg
     content: members_profile_yhp.md
