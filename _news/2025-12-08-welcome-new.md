@@ -18,8 +18,4 @@ Welcome aboard!
         {% include figure.liquid loading="eager" path="assets/img/pic_cwk.jpg" title="Chaewoo Kim" class="img-fluid rounded z-depth-1" width="50%" %}
         <div class="caption">Chaewoo Kim</div>
     </div>
-    <div class="col-sm text-center">
-        {% include figure.liquid loading="eager" path="assets/img/pic_sys.jpg" title="Suyeon Seong" class="img-fluid rounded z-depth-1" width="50%" %}
-        <div class="caption">Suyeon Seong</div>
-    </div>
 </div>
