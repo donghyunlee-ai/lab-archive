@@ -24,7 +24,7 @@ profiles:
       <p>Chaewoo Kim</p>
       <p>kcwkcm [at] hufs.ac.kr</p>
 
-  - align: left
+  - align: right
     image: pic_yhp.jpeg
     content: members_profile_yhp.md
     image_circular: false
