@@ -7,7 +7,7 @@ inline: false
 
 Our lab has been selected for the **National Research Foundation of Korea (NRF) Outstanding Young Scientist Grant**! 🎊
 
-**Project Title**: *Development of Physics-AI Integrated Dynamic Graph Meta-Learning Based Algal Bloom Prediction Technology for Overcoming Data Scarcity*
+**Project Title**: Development of Physics-AI Integrated Dynamic Graph Meta-Learning Based Algal Bloom Prediction Technology for Overcoming Data Scarcity
 
 **Project Period**: 2026.03.01 – 2029.02.28 (3 years)
 
