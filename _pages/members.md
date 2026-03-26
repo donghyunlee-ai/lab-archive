@@ -13,7 +13,7 @@ profiles:
     more_info: |
       <p><strong>M.S. Student (from March 2026)</strong></p>
       <p>Jeon Hyeongseo</p>
-      <p>jin0004 [at] tukorea.ac.kr</p>
+      <p>hyeongseo.jeon [at] hufs.ac.kr</p>
 
   - align: left
     image: pic_cwk.jpg
