@@ -511,6 +511,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-01-05-prof-lee-itpr-editorial-board/";
+            },},{id: "news-grant-selected-for-nrf-outstanding-young-scientist-grant",
+          title: '🎉 [Grant] Selected for NRF Outstanding Young Scientist Grant',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-03-25-nrf-junior-research/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
