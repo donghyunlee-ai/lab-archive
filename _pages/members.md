@@ -11,7 +11,7 @@ profiles:
     content: members_profile_hsj.md
     image_circular: false
     more_info: |
-      <p><strong>M.S. Student (from March 2026)</strong></p>
+      <p><strong>M.S. Student</strong></p>
       <p>Jeon Hyeongseo</p>
       <p>hyeongseo.jeon [at] hufs.ac.kr</p>
 
