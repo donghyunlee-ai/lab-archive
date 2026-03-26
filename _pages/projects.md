@@ -92,6 +92,15 @@ horizontal: false
   <div class="list-group">
     <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
       <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1 fw-bold">Physics-AI Integrated Dynamic Graph Meta-Learning for Algal Bloom Prediction</h5>
+        <small class="text-muted">2026 - 2029</small>
+      </div>
+      <p class="mb-1 mt-2">Development of physics-AI integrated dynamic graph meta-learning based algal bloom prediction technology for overcoming data scarcity.</p>
+      <small class="text-primary"><i class="fas fa-building"></i> Funded by Korea Research Foundation (NRF)</small>
+    </div>
+
+    <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
+      <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1 fw-bold">Wild Bird Avian Influenza Spread Prediction Research</h5>
         <small class="text-muted">2023 - 2025</small>
       </div>
