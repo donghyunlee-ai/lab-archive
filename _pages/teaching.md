@@ -40,84 +40,78 @@ nav_order: 6
 - **[M04107101] Object-Oriented Programming**
   Learn the principles and practical applications of Object-Oriented Programming (OOP) — a core paradigm of modern software engineering — through Python. This course cultivates object-oriented design skills for social science data modeling.
 
-  <details>
-  <summary><strong>Course Details & Weekly Schedule</strong></summary>
-  <br>
-  <p><strong>What is OOP?</strong></p>
-  <ul>
-    <li>A methodology that models programs as interactions among meaningful <em>objects</em>, rather than a simple sequence of commands</li>
-    <li>Bundles data (state) and functionality (methods) together to solve complex problems intuitively</li>
-    <li>A core paradigm that improves code reusability and maintainability</li>
-  </ul>
-  <p><strong>Learning Objectives</strong></p>
-  <ul>
-    <li>Master core Python syntax and develop computational thinking skills</li>
-    <li>Understand the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism</li>
-    <li>Systematically structure data through classes and objects</li>
-    <li>Cultivate design skills for solving social science problems using OOP</li>
-  </ul>
-  <table class="table table-sm table-bordered mt-3">
-    <thead><tr><th>Week</th><th>Topic</th></tr></thead>
-    <tbody>
-      <tr><td>1</td><td>Course Introduction</td></tr>
-      <tr><td>2</td><td>Python Basics: Data Types, Control Statements</td></tr>
-      <tr><td>3</td><td>Python Basics: Functions, Modules</td></tr>
-      <tr><td>4</td><td>Fundamentals of Classes and Objects</td></tr>
-      <tr><td>5</td><td>Object Lifecycle and Method Design</td></tr>
-      <tr><td>6</td><td>Magic Methods</td></tr>
-      <tr><td>7</td><td>Encapsulation (Properties) &amp; Comprehensive Design Lab</td></tr>
-      <tr><td>8</td><td><strong>Midterm Exam</strong></td></tr>
-      <tr><td>9</td><td>Inheritance</td></tr>
-      <tr><td>10</td><td>Multiple Inheritance, Composition, Polymorphism &amp; Overriding</td></tr>
-      <tr><td>11</td><td>Guest Lecture: CJ Entertainment Data Analyst</td></tr>
-      <tr><td>12</td><td>Duck Typing, Interface Design, Exception Handling &amp; File I/O</td></tr>
-      <tr><td>13</td><td>Project Presentations (Teams 1–10)</td></tr>
-      <tr><td>14</td><td>Project Presentations (Teams 11–19)</td></tr>
-      <tr><td>15</td><td><strong>Final Exam</strong></td></tr>
-    </tbody>
-  </table>
-  </details>
+  {% details Course Details & Weekly Schedule %}
+
+  **What is OOP?**
+
+  - A methodology that models programs as interactions among meaningful _objects_, rather than a simple sequence of commands
+  - Bundles data (state) and functionality (methods) together to solve complex problems intuitively
+  - A core paradigm that improves code reusability and maintainability
+
+  **Learning Objectives**
+
+  - Master core Python syntax and develop computational thinking skills
+  - Understand the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism
+  - Systematically structure data through classes and objects
+  - Cultivate design skills for solving social science problems using OOP
+
+  | Week | Topic                                                        |
+  | ---- | ------------------------------------------------------------ |
+  | 1    | Course Introduction                                          |
+  | 2    | Python Basics: Data Types, Control Statements                |
+  | 3    | Python Basics: Functions, Modules                            |
+  | 4    | Fundamentals of Classes and Objects                          |
+  | 5    | Object Lifecycle and Method Design                           |
+  | 6    | Magic Methods                                                |
+  | 7    | Encapsulation (Properties) & Comprehensive Design Lab        |
+  | 8    | **Midterm Exam**                                             |
+  | 9    | Inheritance                                                  |
+  | 10   | Multiple Inheritance, Composition, Polymorphism & Overriding |
+  | 11   | Guest Lecture: CJ Entertainment Data Analyst                 |
+  | 12   | Duck Typing, Interface Design, Exception Handling & File I/O |
+  | 13   | Project Presentations (Teams 1–10)                           |
+  | 14   | Project Presentations (Teams 11–19)                          |
+  | 15   | **Final Exam**                                               |
+
+  {% enddetails %}
 
 - **[M04114101] Deep Learning and Applications**
   Study the theory and practice of artificial neural networks — from individual neurons to modern deep learning architectures (CNN, LSTM, etc.). Implement core mechanisms from scratch with NumPy to understand the mathematical principles, then build practical models with PyTorch for data analysis.
 
-  <details>
-  <summary><strong>Course Details & Weekly Schedule</strong></summary>
-  <br>
-  <p><strong>Core Mechanisms</strong></p>
-  <ul>
-    <li>Implement deep learning algorithms from scratch with NumPy to understand mathematical foundations</li>
-    <li>Hands-on practice with modern neural network architectures using PyTorch</li>
-    <li>Applied analysis of image and time-series social science data</li>
-  </ul>
-  <p><strong>Learning Objectives</strong></p>
-  <ul>
-    <li>Clearly understand the mathematical foundations of neural networks and Backpropagation</li>
-    <li>Implement a Multi-Layer Perceptron (MLP) from scratch using only NumPy</li>
-    <li>Design and train CNN and LSTM models using the PyTorch framework</li>
-    <li>Develop practical deep learning skills for image and time-series data</li>
-  </ul>
-  <table class="table table-sm table-bordered mt-3">
-    <thead><tr><th>Week</th><th>Topic</th></tr></thead>
-    <tbody>
-      <tr><td>1</td><td>Course Introduction</td></tr>
-      <tr><td>2</td><td>[NumPy] ML Review &amp; Linear Neurons: Perceptron, Activation Functions, Loss Functions</td></tr>
-      <tr><td>3</td><td>[NumPy] Neural Network Architecture, Forward Pass, Numerical Differentiation &amp; Gradient Descent</td></tr>
-      <tr><td>4</td><td>[NumPy] Chain Rule and Backpropagation</td></tr>
-      <tr><td>5</td><td>[NumPy] Backpropagation-Based MLP Implementation</td></tr>
-      <tr><td>6</td><td>[NumPy] Optimization Techniques</td></tr>
-      <tr><td>7</td><td>[NumPy] Regularization and Overfitting Control</td></tr>
-      <tr><td>8</td><td><strong>Midterm Exam</strong></td></tr>
-      <tr><td>9</td><td>[PyTorch] Introduction to the PyTorch Framework</td></tr>
-      <tr><td>10</td><td>[PyTorch] CNN — Convolution, Pooling, VGG, ResNet &amp; Image Applications</td></tr>
-      <tr><td>11</td><td>Guest Lecture: CJ Entertainment Data Analyst</td></tr>
-      <tr><td>12</td><td>[PyTorch] RNN, LSTM, GRU</td></tr>
-      <tr><td>13</td><td>Project Presentations</td></tr>
-      <tr><td>14</td><td>Project Presentations</td></tr>
-      <tr><td>15</td><td><strong>Final Exam</strong></td></tr>
-    </tbody>
-  </table>
-  </details>
+  {% details Course Details & Weekly Schedule %}
+
+  **Core Mechanisms**
+
+  - Implement deep learning algorithms from scratch with NumPy to understand mathematical foundations
+  - Hands-on practice with modern neural network architectures using PyTorch
+  - Applied analysis of image and time-series social science data
+
+  **Learning Objectives**
+
+  - Clearly understand the mathematical foundations of neural networks and Backpropagation
+  - Implement a Multi-Layer Perceptron (MLP) from scratch using only NumPy
+  - Design and train CNN and LSTM models using the PyTorch framework
+  - Develop practical deep learning skills for image and time-series data
+
+  | Week | Topic                                                                                           |
+  | ---- | ----------------------------------------------------------------------------------------------- |
+  | 1    | Course Introduction                                                                             |
+  | 2    | [NumPy] ML Review & Linear Neurons: Perceptron, Activation Functions, Loss Functions            |
+  | 3    | [NumPy] Neural Network Architecture, Forward Pass, Numerical Differentiation & Gradient Descent |
+  | 4    | [NumPy] Chain Rule and Backpropagation                                                          |
+  | 5    | [NumPy] Backpropagation-Based MLP Implementation                                                |
+  | 6    | [NumPy] Optimization Techniques                                                                 |
+  | 7    | [NumPy] Regularization and Overfitting Control                                                  |
+  | 8    | **Midterm Exam**                                                                                |
+  | 9    | [PyTorch] Introduction to the PyTorch Framework                                                 |
+  | 10   | [PyTorch] CNN — Convolution, Pooling, VGG, ResNet & Image Applications                          |
+  | 11   | Guest Lecture: CJ Entertainment Data Analyst                                                    |
+  | 12   | [PyTorch] RNN, LSTM, GRU                                                                        |
+  | 13   | Project Presentations                                                                           |
+  | 14   | Project Presentations                                                                           |
+  | 15   | **Final Exam**                                                                                  |
+
+  {% enddetails %}
 
 ---
 
