@@ -40,78 +40,78 @@ nav_order: 6
 - **Object-Oriented Programming**
   Learn the principles and practical applications of Object-Oriented Programming (OOP) — a core paradigm of modern software engineering — through Python. This course cultivates object-oriented design skills for social science data modeling.
 
-  <details>
+  <details markdown="1">
   <summary><strong>Course Details & Weekly Schedule</strong></summary>
 
-  **What is OOP?**
+**What is OOP?**
 
-  - A methodology that models programs as interactions among meaningful _objects_, rather than a simple sequence of commands
-  - Bundles data (state) and functionality (methods) together to solve complex problems intuitively
-  - A core paradigm that improves code reusability and maintainability
+- A methodology that models programs as interactions among meaningful _objects_, rather than a simple sequence of commands
+- Bundles data (state) and functionality (methods) together to solve complex problems intuitively
+- A core paradigm that improves code reusability and maintainability
 
-  **Learning Objectives**
+**Learning Objectives**
 
-  - Master core Python syntax and develop computational thinking skills
-  - Understand the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism
-  - Systematically structure data through classes and objects
-  - Cultivate design skills for solving social science problems using OOP
+- Master core Python syntax and develop computational thinking skills
+- Understand the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism
+- Systematically structure data through classes and objects
+- Cultivate design skills for solving social science problems using OOP
 
-  | Week | Topic                                                        |
-  | ---- | ------------------------------------------------------------ |
-  | 1    | Course Introduction                                          |
-  | 2    | Python Basics: Data Types, Control Statements                |
-  | 3    | Python Basics: Functions, Modules                            |
-  | 4    | Fundamentals of Classes and Objects                          |
-  | 5    | Object Lifecycle and Method Design                           |
-  | 6    | Magic Methods                                                |
-  | 7    | Encapsulation (Properties) & Comprehensive Design Lab        |
-  | 8    | **Midterm Exam**                                             |
-  | 9    | Inheritance                                                  |
-  | 10   | Multiple Inheritance, Composition, Polymorphism & Overriding |
-  | 11   | Guest Lecture: CJ Entertainment Data Analyst                 |
-  | 12   | Duck Typing, Interface Design, Exception Handling & File I/O |
-  | 13   | Project Presentations (Teams 1–10)                           |
-  | 14   | Project Presentations (Teams 11–19)                          |
-  | 15   | **Final Exam**                                               |
+| Week | Topic                                                        |
+| ---- | ------------------------------------------------------------ |
+| 1    | Course Introduction                                          |
+| 2    | Python Basics: Data Types, Control Statements                |
+| 3    | Python Basics: Functions, Modules                            |
+| 4    | Fundamentals of Classes and Objects                          |
+| 5    | Object Lifecycle and Method Design                           |
+| 6    | Magic Methods                                                |
+| 7    | Encapsulation (Properties) & Comprehensive Design Lab        |
+| 8    | **Midterm Exam**                                             |
+| 9    | Inheritance                                                  |
+| 10   | Multiple Inheritance, Composition, Polymorphism & Overriding |
+| 11   | Guest Lecture: CJ Entertainment Data Analyst                 |
+| 12   | Duck Typing, Interface Design, Exception Handling & File I/O |
+| 13   | Project Presentations (Teams 1–10)                           |
+| 14   | Project Presentations (Teams 11–19)                          |
+| 15   | **Final Exam**                                               |
 
   </details>
 
 - **Deep Learning and Applications**
   Study the theory and practice of artificial neural networks — from individual neurons to modern deep learning architectures (CNN, LSTM, etc.). Implement core mechanisms from scratch with NumPy to understand the mathematical principles, then build practical models with PyTorch for data analysis.
 
-  <details>
+  <details markdown="1">
   <summary><strong>Course Details & Weekly Schedule</strong></summary>
 
-  **Core Mechanisms**
+**Core Mechanisms**
 
-  - Implement deep learning algorithms from scratch with NumPy to understand mathematical foundations
-  - Hands-on practice with modern neural network architectures using PyTorch
-  - Applied analysis of image and time-series social science data
+- Implement deep learning algorithms from scratch with NumPy to understand mathematical foundations
+- Hands-on practice with modern neural network architectures using PyTorch
+- Applied analysis of image and time-series social science data
 
-  **Learning Objectives**
+**Learning Objectives**
 
-  - Clearly understand the mathematical foundations of neural networks and Backpropagation
-  - Implement a Multi-Layer Perceptron (MLP) from scratch using only NumPy
-  - Design and train CNN and LSTM models using the PyTorch framework
-  - Develop practical deep learning skills for image and time-series data
+- Clearly understand the mathematical foundations of neural networks and Backpropagation
+- Implement a Multi-Layer Perceptron (MLP) from scratch using only NumPy
+- Design and train CNN and LSTM models using the PyTorch framework
+- Develop practical deep learning skills for image and time-series data
 
-  | Week | Topic                                                                                           |
-  | ---- | ----------------------------------------------------------------------------------------------- |
-  | 1    | Course Introduction                                                                             |
-  | 2    | [NumPy] ML Review & Linear Neurons: Perceptron, Activation Functions, Loss Functions            |
-  | 3    | [NumPy] Neural Network Architecture, Forward Pass, Numerical Differentiation & Gradient Descent |
-  | 4    | [NumPy] Chain Rule and Backpropagation                                                          |
-  | 5    | [NumPy] Backpropagation-Based MLP Implementation                                                |
-  | 6    | [NumPy] Optimization Techniques                                                                 |
-  | 7    | [NumPy] Regularization and Overfitting Control                                                  |
-  | 8    | **Midterm Exam**                                                                                |
-  | 9    | [PyTorch] Introduction to the PyTorch Framework                                                 |
-  | 10   | [PyTorch] CNN — Convolution, Pooling, VGG, ResNet & Image Applications                          |
-  | 11   | Guest Lecture: CJ Entertainment Data Analyst                                                    |
-  | 12   | [PyTorch] RNN, LSTM, GRU                                                                        |
-  | 13   | Project Presentations                                                                           |
-  | 14   | Project Presentations                                                                           |
-  | 15   | **Final Exam**                                                                                  |
+| Week | Topic                                                                                           |
+| ---- | ----------------------------------------------------------------------------------------------- |
+| 1    | Course Introduction                                                                             |
+| 2    | [NumPy] ML Review & Linear Neurons: Perceptron, Activation Functions, Loss Functions            |
+| 3    | [NumPy] Neural Network Architecture, Forward Pass, Numerical Differentiation & Gradient Descent |
+| 4    | [NumPy] Chain Rule and Backpropagation                                                          |
+| 5    | [NumPy] Backpropagation-Based MLP Implementation                                                |
+| 6    | [NumPy] Optimization Techniques                                                                 |
+| 7    | [NumPy] Regularization and Overfitting Control                                                  |
+| 8    | **Midterm Exam**                                                                                |
+| 9    | [PyTorch] Introduction to the PyTorch Framework                                                 |
+| 10   | [PyTorch] CNN — Convolution, Pooling, VGG, ResNet & Image Applications                          |
+| 11   | Guest Lecture: CJ Entertainment Data Analyst                                                    |
+| 12   | [PyTorch] RNN, LSTM, GRU                                                                        |
+| 13   | Project Presentations                                                                           |
+| 14   | Project Presentations                                                                           |
+| 15   | **Final Exam**                                                                                  |
 
   </details>
 
