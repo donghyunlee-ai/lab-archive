@@ -516,6 +516,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-03-25-nrf-junior-research/";
+            },},{id: "news-grant-selected-as-lead-pi-for-iitp-national-project-on-physics-ai-disaster-response",
+          title: '🎉 [Grant] Selected as Lead PI for IITP National Project on Physics-AI Disaster...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-01-iitp-grant/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
