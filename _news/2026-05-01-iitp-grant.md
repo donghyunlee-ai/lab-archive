@@ -9,7 +9,7 @@ We are thrilled to announce that our lab has been selected as the **Lead Princip
 
 **Project Title**: Development of an Ultra-Fast, High-Reliability Physics-AI Hybrid Disaster Response Technology Based on MambaFlow Matching
 
-**Project Period**: 2026. 04. 01 – 2033. 12. 31 (approx. 8 years)
+**Project Period**: 2026. 04. 01 – 2033. 12. 31
 
 **Funding Agency**: Institute of Information & Communications Technology Planning & Evaluation (IITP)
 
@@ -19,12 +19,9 @@ We are thrilled to announce that our lab has been selected as the **Lead Princip
 
 ### Project Overview
 
-This large-scale, long-term project aims to pioneer a next-generation disaster response framework by seamlessly integrating physics-based modeling with cutting-edge AI methodologies. Leveraging the **MambaFlow matching** paradigm, our research will focus on achieving **ultra-fast inference** and **high-reliability predictions** for real-world disaster scenarios, where both speed and accuracy are critical. Rooted in a **Disaster One Health Informatics** perspective, this project embraces an integrated approach to monitoring and predicting disasters — such as floods and wildfires — that simultaneously impact human communities, ecosystems, and critical infrastructure.
+This project integrates physics-based modeling with AI to build fast and reliable disaster response systems using **MambaFlow matching**. From a **Disaster One Health Informatics** perspective, it addresses disasters — such as floods and wildfires — that simultaneously affect human communities, ecosystems, and infrastructure.
 
 Key research directions include:
-
-- **Physics-AI hybrid modeling** that respects physical laws while harnessing the expressive power of deep generative models
-- **MambaFlow matching** for efficient, scalable sequential modeling in disaster simulation and forecasting
-- **Real-time disaster response systems** capable of delivering actionable predictions under extreme time constraints
-
-We are honored to lead this ambitious initiative and look forward to driving impactful research over the next eight years. Stay tuned for updates!
+- Physics-AI hybrid modeling that incorporates physical laws into deep generative models
+- MambaFlow matching for efficient sequential modeling in disaster simulation and forecasting
+- Real-time prediction systems for time-critical disaster scenarios
