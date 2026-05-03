@@ -55,23 +55,7 @@ nav_order: 6
 - Systematically structure data through classes and objects
 - Cultivate design skills for solving social science problems using OOP
 
-| Week | Topic                                                        |
-| ---- | ------------------------------------------------------------ |
-| 1    | Course Introduction                                          |
-| 2    | Python Basics: Data Types, Control Statements                |
-| 3    | Python Basics: Functions, Modules                            |
-| 4    | Fundamentals of Classes and Objects                          |
-| 5    | Object Lifecycle and Method Design                           |
-| 6    | Magic Methods                                                |
-| 7    | Encapsulation (Properties) & Comprehensive Design Lab        |
-| 8    | **Midterm Exam**                                             |
-| 9    | Inheritance                                                  |
-| 10   | Multiple Inheritance, Composition, Polymorphism & Overriding |
-| 11   | Guest Lecture: CJ Entertainment Data Analyst                 |
-| 12   | Duck Typing, Interface Design, Exception Handling & File I/O |
-| 13   | Project Presentations (Teams 1–10)                           |
-| 14   | Project Presentations (Teams 11–19)                          |
-| 15   | **Final Exam**                                               |
+
 
 {% enddetails %}
 
@@ -93,23 +77,7 @@ nav_order: 6
 - Design and train CNN and LSTM models using the PyTorch framework
 - Develop practical deep learning skills for image and time-series data
 
-| Week | Topic                                                                                           |
-| ---- | ----------------------------------------------------------------------------------------------- |
-| 1    | Course Introduction                                                                             |
-| 2    | [NumPy] ML Review & Linear Neurons: Perceptron, Activation Functions, Loss Functions            |
-| 3    | [NumPy] Neural Network Architecture, Forward Pass, Numerical Differentiation & Gradient Descent |
-| 4    | [NumPy] Chain Rule and Backpropagation                                                          |
-| 5    | [NumPy] Backpropagation-Based MLP Implementation                                                |
-| 6    | [NumPy] Optimization Techniques                                                                 |
-| 7    | [NumPy] Regularization and Overfitting Control                                                  |
-| 8    | **Midterm Exam**                                                                                |
-| 9    | [PyTorch] Introduction to the PyTorch Framework                                                 |
-| 10   | [PyTorch] CNN — Convolution, Pooling, VGG, ResNet & Image Applications                          |
-| 11   | Guest Lecture: CJ Entertainment Data Analyst                                                    |
-| 12   | [PyTorch] RNN, LSTM, GRU                                                                        |
-| 13   | Project Presentations                                                                           |
-| 14   | Project Presentations                                                                           |
-| 15   | **Final Exam**                                                                                  |
+
 
 {% enddetails %}
 
