@@ -92,6 +92,15 @@ horizontal: false
   <div class="list-group">
     <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
       <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1 fw-bold">Ultra-Fast Physics-AI Hybrid Disaster Response Based on MambaFlow Matching</h5>
+        <small class="text-muted">2026 - 2033</small>
+      </div>
+      <p class="mb-1 mt-2">Development of an ultra-fast, high-reliability physics-AI hybrid disaster response technology based on MambaFlow matching.</p>
+      <small class="text-primary"><i class="fas fa-building"></i> Funded by IITP (Institute of Information & Communications Technology Planning & Evaluation)</small>
+    </div>
+
+    <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
+      <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1 fw-bold">Physics-AI Integrated Dynamic Graph Meta-Learning for Algal Bloom Prediction</h5>
         <small class="text-muted">2026 - 2029</small>
       </div>
@@ -217,6 +226,10 @@ horizontal: false
 
     <div class="col-6 col-sm-4 col-lg-2 mb-4">
       {% include figure.liquid loading="lazy" path="assets/img/partners/logo_smc.png" class="img-fluid logo-img" %}
+    </div>
+
+    <div class="col-6 col-sm-4 col-lg-2 mb-4">
+      {% include figure.liquid loading="lazy" path="assets/img/partners/logo_iitp.png" class="img-fluid logo-img" %}
     </div>
 
   </div>

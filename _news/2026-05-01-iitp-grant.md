@@ -22,6 +22,7 @@ We are thrilled to announce that our lab has been selected as the **Lead Princip
 This large-scale, long-term project aims to pioneer a next-generation disaster response framework by seamlessly integrating physics-based modeling with cutting-edge AI methodologies. Leveraging the **MambaFlow matching** paradigm, our research will focus on achieving **ultra-fast inference** and **high-reliability predictions** for real-world disaster scenarios, where both speed and accuracy are critical. Rooted in a **Disaster One Health Informatics** perspective, this project embraces an integrated approach to monitoring and predicting disasters — such as floods and wildfires — that simultaneously impact human communities, ecosystems, and critical infrastructure.
 
 Key research directions include:
+
 - **Physics-AI hybrid modeling** that respects physical laws while harnessing the expressive power of deep generative models
 - **MambaFlow matching** for efficient, scalable sequential modeling in disaster simulation and forecasting
 - **Real-time disaster response systems** capable of delivering actionable predictions under extreme time constraints
