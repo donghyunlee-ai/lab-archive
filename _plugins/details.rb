@@ -12,8 +12,8 @@ module Jekyll
         site = context.registers[:site]
         converter = site.find_converter_instance(::Jekyll::Converters::Markdown)
         caption = converter.convert(@caption).gsub(/<\/?p[^>]*>/, '').chomp
-        body = converter.convert(super(context))
-        "<details><summary>#{caption}</summary>#{body}</details>"
+        body = super(context)
+        "<details markdown=\"1\"><summary>#{caption}</summary>\n#{body}</details>"
       end
 
     end
