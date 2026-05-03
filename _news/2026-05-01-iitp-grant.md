@@ -19,7 +19,7 @@ We are thrilled to announce that our lab has been selected as the **Lead Princip
 
 ### Project Overview
 
-This project integrates physics-based modeling with AI to build fast and reliable disaster response systems using **MambaFlow matching**. From a **Disaster One Health Informatics** perspective, it addresses disasters — such as floods and wildfires — that simultaneously affect human communities, ecosystems, and infrastructure.
+This project integrates physics-based modeling with AI to build fast and reliable disaster response systems using MambaFlow matching. From a Disaster One Health Informatics perspective, it addresses disasters — such as floods and wildfires — that simultaneously affect human communities, ecosystems, and infrastructure.
 
 Key research directions include:
 
