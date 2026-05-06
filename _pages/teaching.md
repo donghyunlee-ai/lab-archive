@@ -40,42 +40,42 @@ nav_order: 6
 - **[M04107101] Object-Oriented Programming**
   Learn the principles and practical applications of Object-Oriented Programming (OOP) — a core paradigm of modern software engineering — through Python. This course cultivates object-oriented design skills for social science data modeling.
 
-{% details Course Details %}
+  {% details Course Details %}
 
-**What is OOP?**
+  **What is OOP?**
 
-- A methodology that models programs as interactions among meaningful _objects_, rather than a simple sequence of commands
-- Bundles data (state) and functionality (methods) together to solve complex problems intuitively
-- A core paradigm that improves code reusability and maintainability
+  - A methodology that models programs as interactions among meaningful _objects_, rather than a simple sequence of commands
+  - Bundles data (state) and functionality (methods) together to solve complex problems intuitively
+  - A core paradigm that improves code reusability and maintainability
 
-**Learning Objectives**
+  **Learning Objectives**
 
-- Master core Python syntax and develop computational thinking skills
-- Understand the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism
-- Systematically structure data through classes and objects
-- Cultivate design skills for solving social science problems using OOP
+  - Master core Python syntax and develop computational thinking skills
+  - Understand the four pillars of OOP: Abstraction, Encapsulation, Inheritance, and Polymorphism
+  - Systematically structure data through classes and objects
+  - Cultivate design skills for solving social science problems using OOP
 
-{% enddetails %}
+  {% enddetails %}
 
 - **[M04114101] Deep Learning and Applications**
   Study the theory and practice of artificial neural networks — from individual neurons to modern deep learning architectures (CNN, LSTM, etc.). Implement core mechanisms from scratch with NumPy to understand the mathematical principles, then build practical models with PyTorch for data analysis.
 
-{% details Course Details %}
+  {% details Course Details %}
 
-**Core Mechanisms**
+  **Core Mechanisms**
 
-- Implement deep learning algorithms from scratch with NumPy to understand mathematical foundations
-- Hands-on practice with modern neural network architectures using PyTorch
-- Applied analysis of image and time-series social science data
+  - Implement deep learning algorithms from scratch with NumPy to understand mathematical foundations
+  - Hands-on practice with modern neural network architectures using PyTorch
+  - Applied analysis of image and time-series social science data
 
-**Learning Objectives**
+  **Learning Objectives**
 
-- Clearly understand the mathematical foundations of neural networks and Backpropagation
-- Implement a Multi-Layer Perceptron (MLP) from scratch using only NumPy
-- Design and train CNN and LSTM models using the PyTorch framework
-- Develop practical deep learning skills for image and time-series data
+  - Clearly understand the mathematical foundations of neural networks and Backpropagation
+  - Implement a Multi-Layer Perceptron (MLP) from scratch using only NumPy
+  - Design and train CNN and LSTM models using the PyTorch framework
+  - Develop practical deep learning skills for image and time-series data
 
-{% enddetails %}
+  {% enddetails %}
 
 ---
 

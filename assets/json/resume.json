@@ -295,18 +295,18 @@
   "projects": [
     {
       "name": "Ultra-Fast Physics-AI Hybrid Disaster Response Based on MambaFlow Matching",
-      "summary": "Development of an ultra-fast, high-reliability physics-AI hybrid disaster response technology based on MambaFlow matching. Funded by IITP (Institute of Information & Communications Technology Planning & Evaluation).",
+      "summary": "Funded by IITP (Institute of Information & Communications Technology Planning & Evaluation).",
       "highlights": [],
-      "startDate": "2026",
-      "endDate": "2033",
+      "startDate": "2026-04",
+      "endDate": "2033-12",
       "url": ""
     },
     {
       "name": "Physics-AI Integrated Dynamic Graph Meta-Learning for Algal Bloom Prediction",
-      "summary": "Development of physics-AI integrated dynamic graph meta-learning based algal bloom prediction technology for overcoming data scarcity. Funded by Korea Research Foundation (NRF).",
+      "summary": "Funded by Korea Research Foundation (NRF).",
       "highlights": [],
-      "startDate": "2026",
-      "endDate": "2029",
+      "startDate": "2026-03",
+      "endDate": "2029-02",
       "url": ""
     },
     {
