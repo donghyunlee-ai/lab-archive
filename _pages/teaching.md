@@ -40,7 +40,7 @@ nav_order: 6
 - **[M04107101] Object-Oriented Programming**
   Learn the principles and practical applications of Object-Oriented Programming (OOP) — a core paradigm of modern software engineering — through Python. This course cultivates object-oriented design skills for social science data modeling.
 
-{% details Course Details & Weekly Schedule %}
+{% details Course Details %}
 
 **What is OOP?**
 
@@ -62,7 +62,7 @@ nav_order: 6
 - **[M04114101] Deep Learning and Applications**
   Study the theory and practice of artificial neural networks — from individual neurons to modern deep learning architectures (CNN, LSTM, etc.). Implement core mechanisms from scratch with NumPy to understand the mathematical principles, then build practical models with PyTorch for data analysis.
 
-{% details Course Details & Weekly Schedule %}
+{% details Course Details %}
 
 **Core Mechanisms**
 
