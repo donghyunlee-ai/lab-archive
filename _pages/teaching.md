@@ -55,8 +55,6 @@ nav_order: 6
 - Systematically structure data through classes and objects
 - Cultivate design skills for solving social science problems using OOP
 
-
-
 {% enddetails %}
 
 - **[M04114101] Deep Learning and Applications**
@@ -76,8 +74,6 @@ nav_order: 6
 - Implement a Multi-Layer Perceptron (MLP) from scratch using only NumPy
 - Design and train CNN and LSTM models using the PyTorch framework
 - Develop practical deep learning skills for image and time-series data
-
-
 
 {% enddetails %}
 
