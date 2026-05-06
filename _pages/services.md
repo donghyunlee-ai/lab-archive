@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Servicies
+title: Services
 nav: true
 nav_order: 5
 dropdown: true
