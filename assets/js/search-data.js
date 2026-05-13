@@ -175,6 +175,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-01-iitp-grant/";
+            },},{id: "news-seminar-sangmok-lee-cj-entertainment-on-the-role-of-data-analysts-in-the-ai-era",
+          title: '💡 [Seminar] Sangmok Lee (CJ Entertainment) on the Role of Data Analysts in...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-12-sangmok-lee-seminar/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
