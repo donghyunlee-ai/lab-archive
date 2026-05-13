@@ -5,7 +5,7 @@ date: 2026-05-12 09:00:00
 inline: false
 ---
 
-**Sangmok Lee**, an alumnus of the **Donghyun Lee AI Group** and currently a Data Analyst at **CJ Entertainment**, visited the university to give a special seminar for our 3rd-year students.
+**Sangmok Lee**, an alumnus of the **Donghyun Lee AI Group** and currently a Data Analyst at **CJ Entertainment**, visited the university to give a special seminar for our students.
 
 He delivered a practical and insightful lecture covering two main topics: **"Data Jobs, How Do They Actually Work?"** and **"In the AI Era, How Are Data Jobs Changing?"**. As an active data analyst, he shared highly practical advice and vivid industry perspectives with the students.
 
