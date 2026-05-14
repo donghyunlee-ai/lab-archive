@@ -10,7 +10,4 @@ children:
   - title: divider
   - title: BirdFluAI
     permalink: https://www.birdfluai.com/
-  - title: divider
-  - title: AI Korea Inc.
-    permalink: https://www.aikoreainc.com/
 ---
