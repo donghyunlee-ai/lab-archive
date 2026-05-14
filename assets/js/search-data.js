@@ -58,13 +58,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.birdfluai.com/";
               },
-            },{id: "dropdown-ai-korea-inc",
-              title: "AI Korea Inc.",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "https://www.aikoreainc.com/";
-              },
             },{id: "nav-teaching",
           title: "Teaching",
           description: "A list of my online and undergraduate courses.",
