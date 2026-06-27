@@ -173,6 +173,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-12-sangmok-lee-seminar/";
+            },},{id: "news-conference-attending-the-2026-ieie-summer-annual-conference",
+          title: '🎓 [Conference] Attending the 2026 IEIE Summer Annual Conference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-27-ieie-summer-conference/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
