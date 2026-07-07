@@ -178,6 +178,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-06-27-ieie-summer-conference/";
+            },},{id: "news-news-prof-donghyun-lee-appointed-as-vice-chair-of-kosime-special-committee",
+          title: '📢 [News] Prof. Donghyun Lee Appointed as Vice Chair of KOSIME Special Committee...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-07-prof-lee-kosime-vice-chair/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
