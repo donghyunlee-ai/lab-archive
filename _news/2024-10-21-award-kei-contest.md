@@ -2,6 +2,7 @@
 layout: post
 title: 🏆 [Award] KEI President's Award (3rd Place) in Environmental Data Contest
 date: 2024-10-21 09:00:00
+img: assets/img/posts/post_2024-10-21.jpg
 inline: false
 ---
 

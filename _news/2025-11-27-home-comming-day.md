@@ -2,6 +2,7 @@
 layout: post
 title: 🎉 [Event] 2025 Lab Homecoming Day
 date: 2025-11-27 18:00:00
+img: assets/img/posts/post_2025-11-27.png
 inline: false
 ---
 

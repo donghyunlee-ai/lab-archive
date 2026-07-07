@@ -1,0 +1,22 @@
+# Standalone photos for the Gallery page (/gallery/).
+# These are NOT tied to a news post — use this for any photo you just want to show.
+#
+# How to add a photo:
+#   1. Put the image file in  assets/img/gallery/
+#   2. Add an entry below.
+#
+# Fields:
+#   image   (required)  path to the image, e.g. assets/img/gallery/lab_2026.jpg
+#   caption (optional)  short title shown under the photo
+#   date    (optional)  YYYY-MM-DD — controls order (newest first) and is shown under the caption
+#   url     (optional)  make the photo clickable (external link or an internal page)
+#
+# Example (uncomment and edit):
+# - image: assets/img/gallery/lab_dinner_2026.jpg
+#   caption: Lab dinner, Spring 2026
+#   date: 2026-03-15
+#
+# - image: assets/img/gallery/conference_booth.jpg
+#   caption: Poster session
+#   date: 2026-06-27
+#   url: https://example.com

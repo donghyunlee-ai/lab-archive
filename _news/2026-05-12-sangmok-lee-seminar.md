@@ -2,6 +2,7 @@
 layout: post
 title: 💡 [Seminar] Sangmok Lee (CJ Entertainment) on the Role of Data Analysts in the AI Era
 date: 2026-05-12 09:00:00
+img: assets/img/posts/post_2026_05_12.jpg
 inline: false
 ---
 

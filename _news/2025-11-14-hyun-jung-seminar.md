@@ -2,6 +2,7 @@
 layout: post
 title: 💡 [Seminar] Hyun Jung (Toss Place) on the Role of Data Analysts
 date: 2025-11-14 09:00:00
+img: assets/img/posts/post_2025-11-14.jpeg
 inline: false
 ---
 

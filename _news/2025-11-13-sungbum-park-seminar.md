@@ -2,6 +2,7 @@
 layout: post
 title: 🚀 [Seminar] Sungbum Park (US Big Tech) on Agentic AI & Cloud
 date: 2025-11-13 09:00:00
+img: assets/img/posts/post_2025-11-13.jpeg
 inline: false
 ---
 

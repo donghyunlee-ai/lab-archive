@@ -2,6 +2,7 @@
 layout: post
 title: 🎓 [Conference] Attending the 2026 IEIE Summer Annual Conference
 date: 2026-06-27 09:00:00
+img: assets/img/posts/post_2026_06_27.jpg
 inline: false
 ---
 
