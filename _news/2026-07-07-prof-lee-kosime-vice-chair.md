@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📢 [News] Prof. Donghyun Lee Appointed as Vice Chair of KOSIME Special Committee
-date: 2026-07-07 09:00:00
+date: 2026-07-07 00:00:00
 inline: false
 ---
 
