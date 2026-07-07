@@ -44,26 +44,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "dropdown-hpai-kr",
-              title: "HPAI.kr",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "https://hpai.kr/";
-              },
-            },{id: "dropdown-birdfluai",
-              title: "BirdFluAI",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "https://www.birdfluai.com/";
-              },
-            },{id: "nav-teaching",
+        },{id: "nav-code",
+          title: "Code",
+          description: "Open-source code released alongside our publications for full reproducibility.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/code/";
+          },
+        },{id: "nav-teaching",
           title: "Teaching",
           description: "A list of my online and undergraduate courses.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-gallery",
+          title: "Gallery",
+          description: "Moments from the Donghyun Lee AI Group — conferences, seminars, awards, and lab life.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/gallery/";
           },
         },{id: "news-presentation-kstme-summer-conference-algal-bloom-mlops",
           title: '🎤 [Presentation] KSTME Summer Conference (Algal Bloom MLOps)',
