@@ -156,7 +156,7 @@ horizontal: false
   </div>
 
   <div class="text-center mt-4">
-    <a href="https://donghyunlee-ai.github.io/professor/" class="btn btn-outline-dark">
+    <a href="https://donghyunlee-lab.github.io/professor/" class="btn btn-outline-dark">
       <i class="fas fa-user-tie me-2"></i> View Full Project List on PI's Profile
     </a>
   </div>
