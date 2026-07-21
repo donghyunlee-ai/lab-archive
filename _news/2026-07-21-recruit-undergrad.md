@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📢 [Recruiting] Undergraduate Research Students (Up to 2, Apply by July 31)
-date: 2026-07-21 09:00:00
+date: 2026-07-21 00:00:00
 img: assets/img/posts/poster_2026-07-21.png
 inline: false
 ---
