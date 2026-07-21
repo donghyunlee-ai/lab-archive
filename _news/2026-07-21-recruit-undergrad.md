@@ -2,6 +2,7 @@
 layout: post
 title: 📢 [Recruiting] Undergraduate Research Students (Up to 2, Apply by July 31)
 date: 2026-07-21 09:00:00
+img: assets/img/posts/poster_2026-07-21.png
 inline: false
 ---
 
@@ -19,6 +20,12 @@ Our lab is recruiting **up to 2 undergraduate research students** who want to ga
   - Please be sure to include your **GPA** in your application materials.
   - Please also state **whether you intend to pursue a Master's degree in our lab**.
 - **[Deadline]** Applications are accepted until **July 31, 2026**.
+
+{% include figure.liquid loading="eager" path="assets/img/posts/poster_2026-07-21.png" title="2026 Undergraduate Researcher Recruitment Poster" class="img-fluid rounded z-depth-1" zoomable=true %}
+
+<div class="text-center mt-2">
+  <a href="{{ '/assets/pdf/2026-undergrad-recruit-poster.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster PDF ↓</a>
+</div>
 
 ---
 
