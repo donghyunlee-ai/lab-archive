@@ -187,74 +187,144 @@
   ],
   "publications": [
     {
+      "name": "Heterogeneous transfer learning for robust infectious disease forecasting: A data-centric approach",
+      "publisher": "Expert Systems with Applications, 332, 133728",
+      "releaseDate": "2026",
+      "url": "",
+      "summary": "D. Lee* (2026). (SCIE, IF 9.4 / JCR Top 5.0%)"
+    },
+    {
       "name": "Reinforced explainable AI for algal bloom forecasting under climate change: A multi-run class activation mapping (CAM) approach",
-      "publisher": "Journal of Cleaner Production",
+      "publisher": "Journal of Cleaner Production, 529, 146805",
       "releaseDate": "2025",
       "url": "",
-      "summary": "D. Lee*, H. Jeon (2025). (SCIE, IF = 10.0 / JCR Top 6.0%)"
+      "summary": "D. Lee*, H. Jeon (2025). (SCIE, IF 10.7 / JCR Top 6.7%)"
+    },
+    {
+      "name": "Enhancing Small-Business Ecosystems Through Local Currency Designs in South Korea: A Choice Experiment Approach",
+      "publisher": "Systems, 13(5), 339",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "M. Oh, G. Lee, D. Lee, J. Ahn, J. Shin (2025). (SSCI, IF 3.8 / JCR Top 6.4%)"
+    },
+    {
+      "name": "How Can We Improve the Consumer Acceptance Level for Disposers Considering Regional Characteristics?",
+      "publisher": "Water, 17(4), 493",
+      "releaseDate": "2025",
+      "url": "",
+      "summary": "S. Park, J. Ryu, D. Lee, J. Shin (2025). (SCIE, IF 3.5 / JCR Top 52.0%)"
     },
     {
       "name": "Building Reliable AI for Quantifying Uncertainty in Particulate Matter Predictions with Deep Learning",
-      "publisher": "Journal of Cleaner Production",
+      "publisher": "Journal of Cleaner Production, 473, 143457",
       "releaseDate": "2024",
       "url": "",
-      "summary": "D. Lee*, B. Lee (2024). (SCIE, IF = 10.0 / JCR Top 6.0%)"
+      "summary": "D. Lee*, B. Lee (2024). (SCIE, IF 10.7 / JCR Top 6.7%)"
+    },
+    {
+      "name": "Why Uncertainty in Deep Learning for Traffic Flow Prediction Is Needed",
+      "publisher": "Sustainability, 15(23), 16204",
+      "releaseDate": "2023",
+      "url": "",
+      "summary": "M. Kim, D. Lee* (2023). (SSCI, IF 4.1 / JCR Top 34.4%)"
     },
     {
       "name": "Integrated explainable deep learning prediction of harmful algal blooms",
-      "publisher": "Technological Forecasting and Social Change",
+      "publisher": "Technological Forecasting and Social Change, 185, 122046",
       "releaseDate": "2022",
       "url": "",
-      "summary": "D. Lee*, M. Kim, B. Lee, S. Chae, S. Kwon, S. Kang (2022). (SSCI, IF = 13.3 / JCR Top 0.9%)"
-    },
-    {
-      "name": "PM10 and PM2.5 real-time prediction models using an interpolated convolutional neural network",
-      "publisher": "Scientific Reports",
-      "releaseDate": "2021",
-      "url": "",
-      "summary": "S. Chae, J. Shin, S. Kwon, S. Lee, S. Kang, D. Lee*(2021). (SCIE, IF = 3.9 / JCR Top 18%)"
-    },
-    {
-      "name": "Complex System Analysis of Korean peninsula earthquake Data",
-      "publisher": "Scientific Reports",
-      "releaseDate": "2020",
-      "url": "",
-      "summary": "S. Chae, S. Jang, S. Lee, D. Lee*(2020). (SCIE, IF = 3.9 / JCR Top 18%)"
-    },
-    {
-      "name": "Inter-fuel substitution path analysis of the Korea cement industry",
-      "publisher": "Renewable and Sustainable Energy Reviews",
-      "releaseDate": "2018",
-      "url": "",
-      "summary": "S. Huh, H. Lee, J. Shin, D. Lee, J. Jang (2018). (SCI, IF = 16.3 / JCR Top 2.4%)"
-    },
-    {
-      "name": "Analysing the failure factors of eco‐friendly home appliances based on a user‐centered approach",
-      "publisher": "Business Strategy and the Environment",
-      "releaseDate": "2018",
-      "url": "",
-      "summary": "J. Shin, S. Kang, D. Lee*, B. Hong (2018). (SSCI, IF = 13.3 / JCR Top 1.1%)"
-    },
-    {
-      "name": "Adoption of green electricity policies: Investigating the role of environmental attitudes via big data-driven search-queries",
-      "publisher": "Energy Policy",
-      "releaseDate": "2016",
-      "url": "",
-      "summary": "D. Lee, M. Kim, J. Lee (2016). (SSCI, IF = 9.2 / JCR Top 1.5%)"
-    },
-    {
-      "name": "Examining the relationship between past orientation and US suicide rates: An analysis using big data-driven Google search queries",
-      "publisher": "Journal of medical Internet research",
-      "releaseDate": "2016",
-      "url": "",
-      "summary": "D. Lee, H. Lee, M. Choi (2016). (SCIE, IF = 6.0 / JCR Top 6.1%)"
+      "summary": "D. Lee*, M. Kim, B. Lee, S. Chae, S. Kwon, S. Kang (2022). (SSCI, IF 13.5 / JCR Top 1.4%)"
     },
     {
       "name": "Use of artificial intelligence for predicting infectious disease (Book Chapter)",
-      "publisher": "Elsevier",
+      "publisher": "In P. Keikhosrokiani (Ed.), Big Data Analytics for Healthcare, Elsevier",
       "releaseDate": "2022",
       "url": "",
-      "summary": "In P. Keikhosrokiani, \"Big Data Analytics for Healthcare...\". ISBN: 9780323985161 (SCOPUS)."
+      "summary": "S. Kang, D. Lee* (2022). ISBN: 9780323985161 (SCOPUS)."
+    },
+    {
+      "name": "PM10 and PM2.5 real-time prediction models using an interpolated convolutional neural network",
+      "publisher": "Scientific Reports, 11(1), 11952",
+      "releaseDate": "2021",
+      "url": "",
+      "summary": "S. Chae, J. Shin, S. Kwon, S. Lee, S. Kang, D. Lee* (2021). (SCIE, IF 4.9 / JCR Top 14.6%)"
+    },
+    {
+      "name": "Complex System Analysis of Korean Peninsula Earthquake Data",
+      "publisher": "Scientific Reports, 10(1), 2686",
+      "releaseDate": "2020",
+      "url": "",
+      "summary": "S. Chae, S. Jang, S. Lee, D. Lee* (2020). (SCIE, IF 4.9 / JCR Top 14.6%)"
+    },
+    {
+      "name": "Inter-fuel substitution path analysis of the Korea cement industry",
+      "publisher": "Renewable and Sustainable Energy Reviews, 82, 4091-4099",
+      "releaseDate": "2018",
+      "url": "",
+      "summary": "S. Huh, H. Lee, J. Shin, D. Lee, J. Jang (2018). (SCIE, IF 18.0 / JCR Top 3.1%)"
+    },
+    {
+      "name": "Analysing the failure factors of eco-friendly home appliances based on a user-centered approach",
+      "publisher": "Business Strategy and the Environment, 27(8), 1399-1408",
+      "releaseDate": "2018",
+      "url": "",
+      "summary": "J. Shin, S. Kang, D. Lee*, B. Hong (2018). (SSCI, IF 13.2 / JCR Top 1.8%)"
+    },
+    {
+      "name": "Predicting Infectious Disease Using Deep Learning and Big Data",
+      "publisher": "International Journal of Environmental Research and Public Health, 15(8), 1596",
+      "releaseDate": "2018",
+      "url": "",
+      "summary": "S. Chae, S. Kwon, D. Lee* (2018). (SCIE/SSCI at time of publication; 2018 IF 2.468 / JCR Top 22.8%)"
+    },
+    {
+      "name": "Improved Prediction of Harmful Algal Blooms in Four Major South Korea's Rivers Using Deep Learning Models",
+      "publisher": "International Journal of Environmental Research and Public Health, 15(7), 1322",
+      "releaseDate": "2018",
+      "url": "",
+      "summary": "S. Lee, D. Lee* (2018). (SCIE/SSCI at time of publication; 2018 IF 2.468 / JCR Top 22.8%)"
+    },
+    {
+      "name": "Exploring the dynamic knowledge structure of studies on the Internet of things: Keyword analysis",
+      "publisher": "ETRI Journal, 40(6), 745-758",
+      "releaseDate": "2018",
+      "url": "",
+      "summary": "Y. Yoon, H. Zo, M. Choi, D. Lee, H. Lee (2018). (SCIE, IF 2.0 / JCR Top 65.7%)"
+    },
+    {
+      "name": "Using Deep Learning Techniques to Forecast Environmental Consumption Level",
+      "publisher": "Sustainability, 9(10), 1894",
+      "releaseDate": "2017",
+      "url": "",
+      "summary": "D. Lee, S. Kang, J. Shin (2017). (SSCI, IF 4.1 / JCR Top 34.4%)"
+    },
+    {
+      "name": "Determinants of Pro-Environmental Consumption: Multicountry Comparison Based upon Big Data Search",
+      "publisher": "Sustainability, 9(2), 183",
+      "releaseDate": "2017",
+      "url": "",
+      "summary": "D. Lee, S. Kang, J. Shin (2017). (SSCI, IF 4.1 / JCR Top 34.4%)"
+    },
+    {
+      "name": "Scale-free network analysis of big data for patent litigation cases in the United States",
+      "publisher": "Journal of the Korean Physical Society, 70(4), 431-435",
+      "releaseDate": "2017",
+      "url": "",
+      "summary": "D. Lee, J. Kim, J. Shin (2017). (SCIE, IF 1.0 / JCR Top 66.5%)"
+    },
+    {
+      "name": "Adoption of green electricity policies: Investigating the role of environmental attitudes via big data-driven search-queries",
+      "publisher": "Energy Policy, 90, 187-201",
+      "releaseDate": "2016",
+      "url": "",
+      "summary": "D. Lee, M. Kim, J. Lee (2016). (SSCI, IF 9.3 / JCR Top 1.8%)"
+    },
+    {
+      "name": "Examining the relationship between past orientation and US suicide rates: An analysis using big data-driven Google search queries",
+      "publisher": "Journal of Medical Internet Research, 18(2), e35",
+      "releaseDate": "2016",
+      "url": "",
+      "summary": "D. Lee, H. Lee, M. Choi (2016). (SCIE, IF 8.2 / JCR Top 3.9%)"
     }
   ],
   "skills": [
