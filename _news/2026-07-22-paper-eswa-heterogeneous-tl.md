@@ -13,11 +13,11 @@ This is a single-authored paper by **Prof. Donghyun Lee**. Congratulations! 🎊
 
 ### Why this matters
 
-Epidemic forecasting models are usually trained on a single country's data. That is not only a matter of *volume* — even with years of records, one country cannot supply enough **diversity** to capture the non-stationary dynamics of an outbreak. Models trained this way often end up with prediction errors roughly equal to the data's own standard deviation, which means close to no real predictive skill.
+Epidemic forecasting models are usually trained on a single country's data. That is not only a matter of _volume_ — even with years of records, one country cannot supply enough **diversity** to capture the non-stationary dynamics of an outbreak. Models trained this way often end up with prediction errors roughly equal to the data's own standard deviation, which means close to no real predictive skill.
 
 ### What we did
 
-Instead of searching for a better architecture, this study takes a **data-centric** view and asks a counterintuitive question: *should we pre-train on countries that look **unlike** the target?*
+Instead of searching for a better architecture, this study takes a **data-centric** view and asks a counterintuitive question: _should we pre-train on countries that look **unlike** the target?_
 
 - **Data**: 1,143 days of COVID-19 records across **30 countries**
 - **Source selection**: source countries chosen by **Dynamic Time Warping (DTW)** distance
