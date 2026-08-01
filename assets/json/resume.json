@@ -49,8 +49,8 @@
       "highlights": []
     },
     {
-      "name": "Journal of Innovation & Knowledge (IF = 15.5, JCR Top 0.5%)",
-      "position": "Editorial Board Members",
+      "name": "Journal of Innovation & Knowledge (SSCI, IF 14.0 / JCR Top 0.5%)",
+      "position": "Editorial Board Member",
       "url": "",
       "startDate": "2025-04-01",
       "endDate": "Present",
@@ -111,8 +111,8 @@
       "url": "",
       "area": "Information and Communication Engineering",
       "studyType": "Bachelor of Engineering",
-      "startDate": "",
-      "endDate": "2009-08-31",
+      "startDate": "2005-02",
+      "endDate": "2009-08",
       "score": "",
       "courses": [
         "IT Business minor"
@@ -124,8 +124,8 @@
       "url": "",
       "area": "Graduate School of Technology and Innovation Management",
       "studyType": "Master of Engineering",
-      "startDate": "",
-      "endDate": "2011-08-31",
+      "startDate": "2009-09",
+      "endDate": "2011-08",
       "score": "",
       "courses": []
     },
@@ -135,32 +135,33 @@
       "url": "",
       "area": "Graduate School of Technology and Innovation Management",
       "studyType": "Ph.D. in Engineering",
-      "startDate": "",
-      "endDate": "2016-08-31",
+      "startDate": "2012-02",
+      "endDate": "2016-08",
       "score": "",
       "courses": [
-        "Dissertation: Essays on big data analytics in industrial research: Green energy policy and patent litigation."
+        "Dissertation: Essays on big data analytics in industrial research: Green energy policy and patent litigation.",
+        "Advisor: Prof. Minki Kim"
       ]
     }
   ],
   "awards": [
     {
       "title": "Environmental Data Analysis Contest, Development of Multimodal LLM Interactive AI Specialized in Environmental Research, President’s Award of the Korea Environment Institute",
-      "date": "2024-01-01",
+      "date": "2024",
       "awarder": "Korea Environment Institute",
       "url": "",
       "summary": ""
     },
     {
       "title": "Outstanding Researcher Award (Excellence in Academic Paper Category) with the President's Commendation",
-      "date": "2019-01-01",
+      "date": "2019",
       "awarder": "Tech University of Korea",
       "url": "",
       "summary": ""
     },
     {
       "title": "Presidential Award for the Korea Young Talent Award",
-      "date": "2008-01-01",
+      "date": "2008",
       "awarder": "President of South Korea",
       "url": "",
       "summary": ""
