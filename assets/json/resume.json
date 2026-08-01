@@ -114,9 +114,7 @@
       "startDate": "2005-02",
       "endDate": "2009-08",
       "score": "",
-      "courses": [
-        "IT Business minor"
-      ]
+      "courses": ["IT Business minor"]
     },
     {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST), College of Business",
@@ -337,38 +335,19 @@
       "name": "Research & Methodology",
       "level": "Expert",
       "icon": "fa-solid fa-calculator",
-      "keywords": [
-        "Econometrics",
-        "Technology Management",
-        "Discrete Choice Model",
-        "CVM",
-        "Hazard Model"
-      ]
+      "keywords": ["Econometrics", "Technology Management", "Discrete Choice Model", "CVM", "Hazard Model"]
     },
     {
       "name": "Machine Learning & AI",
       "level": "Expert",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Trustworthy AI",
-        "LLM (sLLM, LangChain)",
-        "PyTorch",
-        "Tensorflow",
-        "ML"
-      ]
+      "keywords": ["Trustworthy AI", "LLM (sLLM, LangChain)", "PyTorch", "Tensorflow", "ML"]
     },
     {
       "name": "Data Analysis & Programming",
       "level": "Expert",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Programming (Python, R, Java, C)",
-        "SQL",
-        "STATA",
-        "SPSS",
-        "Tableau (BI, Visualization)",
-        "QGIS"
-      ]
+      "keywords": ["Programming (Python, R, Java, C)", "SQL", "STATA", "SPSS", "Tableau (BI, Visualization)", "QGIS"]
     },
     {
       "name": "System Architecture & Development",
