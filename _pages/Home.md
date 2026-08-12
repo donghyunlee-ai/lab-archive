@@ -22,12 +22,12 @@ Our mission is to build **Trustworthy AI** systems and apply them to solve criti
 
 **🔬 Research Areas**
 
-- **Trustworthy & Explainable AI (XAI):**
-  Interpretable deep learning, uncertainty quantification, and responsible LLMs.
-- **AI for Environment & Society:**
-  Applying AI analytics to environmental forecasting (e.g., air quality, algal blooms) and public health challenges.
-- **AI-driven Technology Management:**
-  Investigating the strategic impact and management of AI innovation.
+- **Trustworthy AI:**
+  Explainable, uncertainty-aware, and rigorously validated AI for high-stakes decision-making.
+- **Environmental Forecasting:**
+  Deep learning that predicts environmental and public-health risks such as air quality, algal blooms, and infectious diseases.
+- **Computational Social Science:**
+  Data-driven analysis of technology, society, and policy using AI and large-scale behavioral data.
 
 ---
 

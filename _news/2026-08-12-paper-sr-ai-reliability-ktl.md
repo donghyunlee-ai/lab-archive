@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📜 [Paper] Edge-Case-Based AI Reliability Validation published in Scientific Reports (IF=4.9, Top 14.6%, with KTL)
-date: 2026-08-12 09:00:00
+date: 2026-08-12 00:00:00
 inline: false
 ---
 
