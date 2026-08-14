@@ -40,6 +40,7 @@ profiles:
     more_info: |
       <p><strong>Undergraduate</strong></p>
       <p>Yoojeong Chae</p>
+      <p>ujeong601 [at] hufs.ac.kr</p>
       <p><a href="https://github.com/yoojeongarc" target="_blank">GitHub: yoojeongarc</a></p>
 
   - align: right
@@ -49,5 +50,6 @@ profiles:
     more_info: |
       <p><strong>Undergraduate</strong></p>
       <p>Wonui Hong</p>
+      <p>oneof [at] hufs.ac.kr</p>
       <p><a href="https://github.com/oneofhufs" target="_blank">GitHub: oneofhufs</a></p>
 ---
