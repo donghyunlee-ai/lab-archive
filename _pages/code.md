@@ -87,6 +87,12 @@ nav_order: 5
          class="btn btn-outline-dark btn-sm" target="_blank" rel="noopener">
         <i class="fab fa-github me-1"></i> View on GitHub
       </a>
+
+      <p class="text-muted small mt-3 mb-0">
+        <i class="fas fa-hand-holding-usd me-1"></i>
+        Supported by IITP (RS-2026-25522834, Physics-AI Hybrid Disaster Response
+        Technology).
+      </p>
     </div>
 
   </div>
