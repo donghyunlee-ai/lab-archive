@@ -61,4 +61,5 @@ profiles:
       <p><strong>Undergraduate</strong></p>
       <p>Siwon Kim</p>
       <p>coolkim [at] hufs.ac.kr</p>
+      <p><a href="https://github.com/siwonkimm" target="_blank">GitHub: siwonkimm</a></p>
 ---
