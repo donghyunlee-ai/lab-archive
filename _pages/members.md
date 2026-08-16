@@ -52,4 +52,13 @@ profiles:
       <p>Wonui Hong</p>
       <p>oneof [at] hufs.ac.kr</p>
       <p><a href="https://github.com/oneofhufs" target="_blank">GitHub: oneofhufs</a></p>
+
+  - align: left
+    image: pic_swk.jpg
+    content: members_profile_swk.md
+    image_circular: false
+    more_info: |
+      <p><strong>Undergraduate</strong></p>
+      <p>Siwon Kim</p>
+      <p>coolkim [at] hufs.ac.kr</p>
 ---
