@@ -23,6 +23,7 @@ profiles:
       <p><strong>Undergraduate</strong></p>
       <p>Chaewoo Kim</p>
       <p>kcwkcm [at] hufs.ac.kr</p>
+      <p><a href="https://github.com/hakuna78" target="_blank">GitHub: hakuna78</a></p>
 
   - align: right
     image: pic_yhp.jpeg
@@ -32,6 +33,7 @@ profiles:
       <p><strong>Undergraduate</strong></p>
       <p>Yeonhoo Park</p>
       <p>bellnice55 [at] hufs.ac.kr</p>
+      <p><a href="https://github.com/bellnice55" target="_blank">GitHub: bellnice55</a></p>
 
   - align: left
     image: pic_yjc.jpeg
@@ -62,4 +64,14 @@ profiles:
       <p>Siwon Kim</p>
       <p>coolkim [at] hufs.ac.kr</p>
       <p><a href="https://github.com/siwonkimm" target="_blank">GitHub: siwonkimm</a></p>
+
+  - align: right
+    image: pic_jwl.jpg
+    content: members_profile_jwl.md
+    image_circular: false
+    more_info: |
+      <p><strong>Undergraduate</strong></p>
+      <p>Jongwon Lee</p>
+      <p>ljw49533 [at] gmail.com</p>
+      <p><a href="https://github.com/ljw49533-beep" target="_blank">GitHub: ljw49533-beep</a></p>
 ---
