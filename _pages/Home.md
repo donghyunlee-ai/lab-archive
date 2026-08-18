@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Social Science & AI in HUFS, Seoul, South Korea
+subtitle: <b>Trustworthy AI for High-Stakes Forecasting and Simulation</b><br>Social Science & AI at HUFS · Seoul, South Korea
 profile:
   align: right
   image: portrait.jpg
@@ -14,23 +14,23 @@ announcements:
   limit: 5
 ---
 
-Welcome to the **Donghyun Lee AI Group**, led by Prof. Donghyun Lee. Established in 2017, our group is now based at Hankuk University of Foreign Studies (HUFS), Seoul.
+Welcome to the **Donghyun Lee AI Group**. Established in 2017, we are based at Hankuk University of Foreign Studies (HUFS) in Seoul.
 
-Our mission is to build **Trustworthy AI** systems and apply them to solve critical societal and environmental challenges. We focus on developing AI that is reliable, interpretable, and robust for real-world decision-making.
+We study **when AI predictions and simulations can be trusted — and when they should be withheld** — in high-stakes physical and social systems. Our core program advances forecasting and Physics-AI for spatiotemporal systems under distribution shift, rare events, and imperfect observations. We emphasize calibration, external validation, failure detection, abstention, and decision utility.
 
 ---
 
 **🔬 Research Areas**
 
-- **Trustworthy AI:**
-  Explainable, uncertainty-aware, and rigorously validated AI for high-stakes decision-making.
-- **Environmental Forecasting:**
-  Deep learning that predicts environmental and public-health risks such as air quality, algal blooms, and infectious diseases.
-- **Computational Social Science:**
-  Data-driven analysis of technology, society, and policy using AI and large-scale behavioral data.
+- **Methodological Core — Trustworthy Forecasting & Physics-AI:**
+  Uncertainty quantification, interpretable modeling, regime-shift evaluation, spatial and temporal holdouts, selective prediction, and reusable reliability-audit tools.
+- **Domain I — Environmental & One Health Systems:**
+  Early warning for freshwater CyanoHABs, water-quality risks, and infectious diseases under climate shifts, hydrological change, surveillance bias, and imperfect observations.
+- **Domain II — AI-Based Social & Behavioral Simulation:**
+  Evaluating the validity and reliability of LLM-based synthetic agents through human benchmarks, subgroup fidelity, cross-model sensitivity, and explicit non-use rules.
 
 ---
 
-We are actively seeking motivated graduate students (Master's/Ph.D.) and are always open to research collaborations. Learn more from our **[alumnus interview (Sangwon Chae, NH Bank)](https://blog.naver.com/tukorea_official/222191800108)**.
+We welcome motivated **Master's and Ph.D. students** and interdisciplinary collaborations. Read our **[alumnus interview with Sangwon Chae of NH Bank](https://blog.naver.com/tukorea_official/222191800108)**.
 
-If you are interested in our work, please contact Prof. Lee at **donghyun.lee [at] hufs.ac.kr**.
+Contact Prof. Lee at **donghyun.lee [at] hufs.ac.kr**.
