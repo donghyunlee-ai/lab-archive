@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 📢 [News] Welcome New Members & Recruitment Update
-date: 2026-08-18 09:00:00
+date: 2026-08-18 00:00:00
 inline: false
 ---
 
