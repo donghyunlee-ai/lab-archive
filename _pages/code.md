@@ -56,45 +56,4 @@ nav_order: 5
 
   </div>
 
-  <div class="card mb-4 z-depth-1">
-    <div class="card-body p-4">
-      <div class="d-flex justify-content-between align-items-start flex-wrap">
-        <h4 class="fw-bold mb-2">PM Tail Heterogeneity</h4>
-        <span class="badge bg-secondary align-self-center mb-2">MIT License</span>
-      </div>
-
-      <p class="text-secondary mb-3">
-        Analysis code and frozen confirmation-governance artifacts for
-        <em>"Separating frequency, median severity, and upper-tail composition in
-        particulate matter episodes across Korean monitoring stations,
-        2015–2025."</em> A 16-stage pipeline processes hourly PM10 and PM2.5
-        records to separate how pollution episodes differ in frequency, median
-        severity, and extreme-value composition across stations. The analysis
-        chain ships with sealed manifests, machine-readable protocols with
-        confirmatory gates, and verification scripts so every result can be
-        re-validated end to end.
-      </p>
-
-      <p class="text-muted small mb-3">
-        <i class="fas fa-database me-1"></i>
-        Uses public hourly PM10/PM2.5 records from AirKorea (Korea Environment
-        Corporation), 2015–2025, distributed under the Korea Open Government
-        Licence (KOGL) Type 3. Raw records are not redistributed; see the
-        repository README for the data pipeline.
-      </p>
-
-      <a href="https://github.com/donghyunlee-lab/pm-tail-heterogeneity-code"
-         class="btn btn-outline-dark btn-sm" target="_blank" rel="noopener">
-        <i class="fab fa-github me-1"></i> View on GitHub
-      </a>
-
-      <p class="text-muted small mt-3 mb-0">
-        <i class="fas fa-hand-holding-usd me-1"></i>
-        Supported by IITP (RS-2026-25522834, Physics-AI Hybrid Disaster Response
-        Technology).
-      </p>
-    </div>
-
-  </div>
-
 </div>
