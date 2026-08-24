@@ -16,6 +16,44 @@ nav_order: 5
   <div class="card mb-4 z-depth-1">
     <div class="card-body p-4">
       <div class="d-flex justify-content-between align-items-start flex-wrap">
+        <h4 class="fw-bold mb-2">Synthetic-Panel Audit</h4>
+        <span class="badge bg-secondary align-self-center mb-2">Apache-2.0 · CC BY 4.0</span>
+      </div>
+
+      <p class="text-secondary mb-3">
+        Audit protocol and benchmark for <em>"Everyone's taste and no one's: an
+        audit protocol for LLM synthetic panels in UX research."</em> Each of
+        18,448 LabintheWild participants is paired with a persona-conditioned
+        digital twin that rates the same websites, yielding about 620,000
+        synthetic ratings across five model families, audited against a noise
+        ceiling from human re-ratings. The package ships the audit code, the
+        full synthetic-rating data, a demographic-oracle bound, and a screening
+        rule that identifies in advance the populations for which a synthetic
+        panel should be refused.
+      </p>
+
+      <p class="text-muted small mb-3">
+        <i class="fas fa-database me-1"></i>
+        The LabintheWild human anchor (CC BY-NC-SA 3.0, Reinecke &amp; Gajos,
+        CHI 2014) is not redistributed; a download script fetches it from the
+        original authors' site.
+      </p>
+
+      <a href="https://github.com/donghyunlee-lab/synthetic-panel-audit"
+         class="btn btn-outline-dark btn-sm" target="_blank" rel="noopener">
+        <i class="fab fa-github me-1"></i> View on GitHub
+      </a>
+      <a href="https://doi.org/10.5281/zenodo.22080775"
+         class="btn btn-outline-dark btn-sm" target="_blank" rel="noopener">
+        <i class="ai ai-doi me-1"></i> Zenodo archive
+      </a>
+    </div>
+
+  </div>
+
+  <div class="card mb-4 z-depth-1">
+    <div class="card-body p-4">
+      <div class="d-flex justify-content-between align-items-start flex-wrap">
         <h4 class="fw-bold mb-2">ACES — Adaptive Conformal Early-warning System</h4>
         <span class="badge bg-secondary align-self-center mb-2">MIT License</span>
       </div>
