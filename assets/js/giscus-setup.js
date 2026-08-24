@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "donghyunlee-ai/donghyunlee-ai.github.io",
+    "data-repo": "donghyunlee-ai/lab-archive",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

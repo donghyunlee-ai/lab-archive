@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://donghyunlee-ai.github.io/sitemap.xml
+Sitemap: https://donghyunlee-lab.github.io/sitemap.xml

@@ -120,10 +120,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-10-25-paper-jcp-xai/";
-            },},{id: "news-now-recruiting-undergraduate-and-graduate-students-our-lab-is-actively-recruiting-passionate-students-for-the-following-positions-graduate-students-master-s-amp-amp-ph-d-we-are-looking-for-highly-motivated-candidates-to-join-our-master-s-or-ph-d-programs-undergraduate-researchers-we-welcome-undergraduate-students-3rd-year-or-higher-interested-in-gaining-research-experience-especially-those-considering-the-integrated-bachelor-s-master-s-program-or-master-s-program-research-areas-ai-mlops-data-science-ideal-candidate-smart-social-integrity-required-skills-python-preferred-skills-front-back-end-development-how-to-apply-please-send-your-cv-and-cover-letter-to-donghyun-lee-at-hufs-ac-kr-please-be-sure-to-include-your-gpa-in-your-application-materials",
-          title: 'Now Recruiting: Undergraduate and Graduate Students Our lab is actively recruiting passionate students...',
+            },},{id: "news-recruiting-now-recruiting-undergraduate-and-graduate-students",
+          title: '📢 [Recruiting] Now Recruiting Undergraduate and Graduate Students',
           description: "",
-          section: "News",},{id: "news-seminar-sungbum-park-us-big-tech-on-agentic-ai-amp-cloud",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-10-recruit-open-positions/";
+            },},{id: "news-seminar-sungbum-park-us-big-tech-on-agentic-ai-amp-cloud",
           title: '🚀 [Seminar] Sungbum Park (US Big Tech) on Agentic AI &amp;amp; Cloud',
           description: "",
           section: "News",handler: () => {
@@ -183,6 +185,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-07-07-prof-lee-kosime-vice-chair/";
+            },},{id: "news-recruiting-undergraduate-research-students-up-to-2-apply-by-july-31",
+          title: '📢 [Recruiting] Undergraduate Research Students (Up to 2, Apply by July 31)',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-21-recruit-undergrad/";
+            },},{id: "news-paper-heterogeneous-transfer-learning-for-infectious-disease-forecasting-published-in-eswa-if-9-4-top-5",
+          title: '📜 [Paper] Heterogeneous Transfer Learning for Infectious Disease Forecasting published in ESWA (IF=9.4,...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-22-paper-eswa-heterogeneous-tl/";
+            },},{id: "news-paper-edge-case-based-ai-reliability-validation-published-in-scientific-reports-if-4-9-top-14-6-with-ktl",
+          title: '📜 [Paper] Edge-Case-Based AI Reliability Validation published in Scientific Reports (IF=4.9, Top 14.6%,...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-12-paper-sr-ai-reliability-ktl/";
+            },},{id: "news-news-welcome-new-members-amp-recruitment-update",
+          title: '📢 [News] Welcome New Members &amp;amp; Recruitment Update',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-18-welcome-new/";
             },},{id: "projects-ai-for-algal-bloom-forecasting",
           title: 'AI for Algal Bloom Forecasting',
           description: "Developing a Trustworthy AI model to predict harmful algal blooms (HABs).",
