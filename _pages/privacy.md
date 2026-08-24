@@ -7,7 +7,7 @@ nav: false
 ---
 
 <div class="container mt-3">
-  <p class="text-muted">Effective date: August 18, 2026</p>
+  <p class="text-muted">Effective date: August 24, 2026</p>
 
   <p>
     This website is operated by the Donghyun Lee AI Group, Division of Social
